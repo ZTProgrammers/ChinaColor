@@ -1,0 +1,26 @@
+.themeToggle {
+  position: fixed;
+  top: 2px;
+  right: 2px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 12px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px var(--shadow-color);
+  z-index: 1000;
+}
+
+@media (max-width: 1000px) {
+  .themeToggle {
+    flex-direction: row;
+    top: auto;
+    bottom: 20px;
+    right: 50%;
+    transform: translateX(50%);
+    padding: 8px 16px;
+    background: var(--card-background);
+    border: 2px solid;
+    border-color: rgb(from var(--text-color) r g b / 11%);
+  }
+}

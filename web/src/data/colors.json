@@ -1,0 +1,3242 @@
+[
+  {
+    "title": "立春",
+    "engtitle": "Beginning of Spring",
+    "des": "'立'是开始的意思,立春就是春季的开始。",
+    "colorDatas": [
+      {
+        "color_name": "黄白游",
+        "color_color": "rgb(88, 88, 88)",
+        "color_bg": "rgb(255, 247, 153)",
+        "color_rgb": "RGB(255, 247, 153)",
+        "color_cmyk": "CMYK(0,0,50,0)",
+        "color_hex": "#fff799"
+      },
+      {
+        "color_name": "松花",
+        "color_color": "rgb(78, 78, 78)",
+        "color_bg": "rgb(255, 238, 111)",
+        "color_rgb": "RGB(255, 238, 111)",
+        "color_cmyk": "CMYK(0,5,65,0)",
+        "color_hex": "#ffee6f"
+      },
+      {
+        "color_name": "缃叶",
+        "color_color": "rgb(54, 54, 54)",
+        "color_bg": "rgb(236, 212, 82)",
+        "color_rgb": "RGB(236, 212, 82)",
+        "color_cmyk": "CMYK(10,15,75,5)",
+        "color_hex": "#ecd452"
+      },
+      {
+        "color_name": "苍黄",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(182, 160, 20)",
+        "color_rgb": "RGB(182, 160, 20)",
+        "color_cmyk": "CMYK(35,35,100,0)",
+        "color_hex": "#b6a014"
+      },
+      {
+        "color_name": "天缥",
+        "color_color": "rgb(77, 77, 77)",
+        "color_bg": "rgb(213, 235, 225)",
+        "color_rgb": "RGB(213, 235, 225)",
+        "color_cmyk": "CMYK(20,0,15,0)",
+        "color_hex": "#d5ebe1"
+      },
+      {
+        "color_name": "沧浪",
+        "color_color": "rgb(50, 50, 50)",
+        "color_bg": "rgb(177, 213, 200)",
+        "color_rgb": "RGB(177, 213, 200)",
+        "color_cmyk": "CMYK(35,5,25,0)",
+        "color_hex": "#b1d5c8"
+      },
+      {
+        "color_name": "苍筤",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(153, 188, 172)",
+        "color_rgb": "RGB(153, 188, 172)",
+        "color_cmyk": "CMYK(45,15,35,0)",
+        "color_hex": "#99bcac"
+      },
+      {
+        "color_name": "缥碧",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(128, 164, 146)",
+        "color_rgb": "RGB(128, 164, 146)",
+        "color_cmyk": "CMYK(55,25,45,0)",
+        "color_hex": "#80a492"
+      },
+      {
+        "color_name": "流黄",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(139, 112, 66)",
+        "color_rgb": "RGB(139, 112, 66)",
+        "color_cmyk": "CMYK(50,55,80,10)",
+        "color_hex": "#8b7042"
+      },
+      {
+        "color_name": "栗壳",
+        "color_color": "rgb(239, 239, 239)",
+        "color_bg": "rgb(119, 80, 57)",
+        "color_rgb": "RGB(119, 80, 57)",
+        "color_cmyk": "CMYK(55,70,80,20)",
+        "color_hex": "#775039"
+      },
+      {
+        "color_name": "龙战",
+        "color_color": "rgb(221, 221, 221)",
+        "color_bg": "rgb(95, 67, 33)",
+        "color_rgb": "RGB(95, 67, 33)",
+        "color_cmyk": "CMYK(60,70,95,35)",
+        "color_hex": "#5f4321"
+      },
+      {
+        "color_name": "青骊",
+        "color_color": "rgb(194, 194, 194)",
+        "color_bg": "rgb(66, 37, 23)",
+        "color_rgb": "RGB(66, 37, 23)",
+        "color_cmyk": "CMYK(65,80,90,55)",
+        "color_hex": "#422517"
+      },
+      {
+        "color_name": "海天霞",
+        "color_color": "rgb(36, 36, 36)",
+        "color_bg": "rgb(243, 166, 148)",
+        "color_rgb": "RGB(243, 166, 148)",
+        "color_cmyk": "CMYK(0,45,35,0)",
+        "color_hex": "#f3a694"
+      },
+      {
+        "color_name": "缙云",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(238, 121, 89)",
+        "color_rgb": "RGB(238, 121, 89)",
+        "color_cmyk": "CMYK(0,65,60,0)",
+        "color_hex": "#ee7959"
+      },
+      {
+        "color_name": "纁黄",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(186, 81, 64)",
+        "color_rgb": "RGB(186, 81, 64)",
+        "color_cmyk": "CMYK(30,80,75,0)",
+        "color_hex": "#ba5140"
+      },
+      {
+        "color_name": "珊瑚赫",
+        "color_color": "rgb(237, 237, 237)",
+        "color_bg": "rgb(193, 44, 31)",
+        "color_rgb": "RGB(193, 44, 31)",
+        "color_cmyk": "CMYK(25,95,100,0)",
+        "color_hex": "#c12c1f"
+      }
+    ]
+  },
+  {
+    "title": "雨水",
+    "engtitle": "Rain Water",
+    "des": "降雨开始，雨量渐增。",
+    "colorDatas": [
+      {
+        "color_name": "盈盈",
+        "color_color": "rgb(74, 74, 74)",
+        "color_bg": "rgb(249, 211, 227)",
+        "color_rgb": "RGB(249, 211, 227)",
+        "color_cmyk": "CMYK(0,25,0,0)",
+        "color_hex": "#f9d3e3"
+      },
+      {
+        "color_name": "水红",
+        "color_color": "rgb(45, 45, 45)",
+        "color_bg": "rgb(236, 176, 193)",
+        "color_rgb": "RGB(236, 176, 193)",
+        "color_cmyk": "CMYK(5,40,10,0)",
+        "color_hex": "#ecb0c1"
+      },
+      {
+        "color_name": "苏梅",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(221, 118, 148)",
+        "color_rgb": "RGB(221, 118, 148)",
+        "color_cmyk": "CMYK(10,65,20,0)",
+        "color_hex": "#dd7694"
+      },
+      {
+        "color_name": "紫茎屏风",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(167, 98, 131)",
+        "color_rgb": "RGB(167, 98, 131)",
+        "color_cmyk": "CMYK(40,70,30,0)",
+        "color_hex": "#a76283"
+      },
+      {
+        "color_name": "葭灰",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(190, 177, 170)",
+        "color_rgb": "RGB(190, 177, 170)",
+        "color_cmyk": "CMYK(30,30,30,0)",
+        "color_hex": "#beb1aa"
+      },
+      {
+        "color_name": "黄埃",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(180, 146, 115)",
+        "color_rgb": "RGB(180, 146, 115)",
+        "color_cmyk": "CMYK(35,45,55,0)",
+        "color_hex": "#b49273"
+      },
+      {
+        "color_name": "老僧衣",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(164, 98, 68)",
+        "color_rgb": "RGB(164, 98, 68)",
+        "color_cmyk": "CMYK(40,70,75,5)",
+        "color_hex": "#a46244"
+      },
+      {
+        "color_name": "玄天",
+        "color_color": "rgb(241, 241, 241)",
+        "color_bg": "rgb(107, 84, 88)",
+        "color_rgb": "RGB(107, 84, 88)",
+        "color_cmyk": "CMYK(65,70,60,10)",
+        "color_hex": "#6b5458"
+      },
+      {
+        "color_name": "黄河琉璃",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(229, 168, 75)",
+        "color_rgb": "RGB(229, 168, 75)",
+        "color_cmyk": "CMYK(10,40,75,0)",
+        "color_hex": "#e5a84b"
+      },
+      {
+        "color_name": "库金",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(225, 138, 59)",
+        "color_rgb": "RGB(225, 138, 59)",
+        "color_cmyk": "CMYK(10,55,80,0)",
+        "color_hex": "#e18a3b"
+      },
+      {
+        "color_name": "缊韨",
+        "color_color": "rgb(247, 247, 247)",
+        "color_bg": "rgb(152, 79, 49)",
+        "color_rgb": "RGB(152, 79, 49)",
+        "color_cmyk": "CMYK(40,75,85,15)",
+        "color_hex": "#984f31"
+      },
+      {
+        "color_name": "紫瓯",
+        "color_color": "rgb(231, 231, 231)",
+        "color_bg": "rgb(124, 70, 30)",
+        "color_rgb": "RGB(124, 70, 30)",
+        "color_cmyk": "CMYK(50,75,100,25)",
+        "color_hex": "#7c461e"
+      },
+      {
+        "color_name": "欧碧",
+        "color_color": "rgb(50, 50, 50)",
+        "color_bg": "rgb(192, 214, 149)",
+        "color_rgb": "RGB(192, 214, 149)",
+        "color_cmyk": "CMYK(30,5,50,0)",
+        "color_hex": "#c0d695"
+      },
+      {
+        "color_name": "春辰",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(169, 190, 123)",
+        "color_rgb": "RGB(169, 190, 123)",
+        "color_cmyk": "CMYK(40,15,60,0)",
+        "color_hex": "#a9be7b"
+      },
+      {
+        "color_name": "碧山",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(119, 150, 73)",
+        "color_rgb": "RGB(119, 150, 73)",
+        "color_cmyk": "CMYK(60,30,85,0)",
+        "color_hex": "#779649"
+      },
+      {
+        "color_name": "青青",
+        "color_color": "rgb(246, 246, 246)",
+        "color_bg": "rgb(79, 111, 70)",
+        "color_rgb": "Error: Invalid color value",
+        "color_cmyk": "CMYK(75,50,85,5)",
+        "color_hex": "#4f6f46"
+      }
+    ]
+  },
+  {
+    "title": "惊蛰",
+    "engtitle": "Insects Awakening",
+    "des": "蛰是藏的意思。惊蛰指春雷乍动，惊醒了蛰伏在土中冬眠的动物。",
+    "colorDatas": [
+      {
+        "color_name": "赤缇",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(186, 91, 73)",
+        "color_rgb": "RGB(186, 91, 73)",
+        "color_cmyk": "CMYK(30,75,70,0)",
+        "color_hex": "#ba5b49"
+      },
+      {
+        "color_name": "朱草",
+        "color_color": "rgb(243, 243, 243)",
+        "color_bg": "rgb(166, 64, 54)",
+        "color_rgb": "RGB(166, 64, 54)",
+        "color_cmyk": "CMYK(35,85,80,10)",
+        "color_hex": "#a64036"
+      },
+      {
+        "color_name": "綪茷",
+        "color_color": "rgb(225, 225, 225)",
+        "color_bg": "rgb(158, 42, 34)",
+        "color_rgb": "RGB(158, 42, 34)",
+        "color_cmyk": "CMYK(40,95,100,10)",
+        "color_hex": "#9e2a22"
+      },
+      {
+        "color_name": "顺圣",
+        "color_color": "rgb(205, 205, 205)",
+        "color_bg": "rgb(124, 25, 30)",
+        "color_rgb": "RGB(124, 25, 30)",
+        "color_cmyk": "CMYK(50,100,100,25)",
+        "color_hex": "#7c191e"
+      },
+      {
+        "color_name": "桃夭",
+        "color_color": "rgb(57, 57, 57)",
+        "color_bg": "rgb(246, 190, 200)",
+        "color_rgb": "RGB(246, 190, 200)",
+        "color_cmyk": "CMYK(0,35,10,0)",
+        "color_hex": "#f6bec8"
+      },
+      {
+        "color_name": "杨妃",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(240, 145, 160)",
+        "color_rgb": "RGB(240, 145, 160)",
+        "color_cmyk": "CMYK(0,55,20,0)",
+        "color_hex": "#f091a0"
+      },
+      {
+        "color_name": "长春",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(220, 107, 130)",
+        "color_rgb": "RGB(220, 107, 130)",
+        "color_cmyk": "CMYK(10,70,30,0)",
+        "color_hex": "#dc6b82"
+      },
+      {
+        "color_name": "牙绯",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(195, 92, 93)",
+        "color_rgb": "RGB(195, 92, 93)",
+        "color_cmyk": "CMYK(25,75,55,0)",
+        "color_hex": "#c35c5d"
+      },
+      {
+        "color_name": "黄栗留",
+        "color_color": "rgb(65, 65, 65)",
+        "color_bg": "rgb(254, 220, 94)",
+        "color_rgb": "RGB(254, 220, 94)",
+        "color_cmyk": "CMYK(0,15,70,0)",
+        "color_hex": "#fedc5e"
+      },
+      {
+        "color_name": "栀子",
+        "color_color": "rgb(44, 44, 44)",
+        "color_bg": "rgb(250, 192, 61)",
+        "color_rgb": "RGB(250, 192, 61)",
+        "color_cmyk": "CMYK(0,30,80,0)",
+        "color_hex": "#fac03d"
+      },
+      {
+        "color_name": "黄不老",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(219, 155, 52)",
+        "color_rgb": "RGB(219, 155, 52)",
+        "color_cmyk": "CMYK(15,45,85,0)",
+        "color_hex": "#db9b34"
+      },
+      {
+        "color_name": "柘黄",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(198, 121, 21)",
+        "color_rgb": "RGB(198, 121, 21)",
+        "color_cmyk": "CMYK(25,60,100,0)",
+        "color_hex": "#c67915"
+      },
+      {
+        "color_name": "青鸾",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(154, 167, 177)",
+        "color_rgb": "RGB(154, 167, 177)",
+        "color_cmyk": "CMYK(45,30,25,0)",
+        "color_hex": "#9aa7b1"
+      },
+      {
+        "color_name": "菘蓝",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(107, 121, 142)",
+        "color_rgb": "RGB(107, 121, 142)",
+        "color_cmyk": "CMYK(65,50,35,0)",
+        "color_hex": "#6b798e"
+      },
+      {
+        "color_name": "青黛",
+        "color_color": "rgb(222, 222, 222)",
+        "color_bg": "rgb(69, 70, 94)",
+        "color_rgb": "RGB(69, 70, 94)",
+        "color_cmyk": "CMYK(80,75,50,15)",
+        "color_hex": "#45465e"
+      },
+      {
+        "color_name": "绀蝶",
+        "color_color": "rgb(197, 197, 197)",
+        "color_bg": "rgb(44, 47, 59)",
+        "color_rgb": "RGB(44, 47, 59)",
+        "color_cmyk": "CMYK(85,80,65,40)",
+        "color_hex": "#2c2f3b"
+      }
+    ]
+  },
+  {
+    "title": "春分",
+    "engtitle": "Spring Equinox",
+    "des": "'分'是平分的意思。春分表示昼夜平分。",
+    "colorDatas": [
+      {
+        "color_name": "皦玉",
+        "color_color": "rgb(86, 86, 86)",
+        "color_bg": "rgb(235, 238, 232)",
+        "color_rgb": "RGB(235, 238, 232)",
+        "color_cmyk": "CMYK(10,5,10,0)",
+        "color_hex": "#ebeee8"
+      },
+      {
+        "color_name": "吉量",
+        "color_color": "rgb(84, 84, 84)",
+        "color_bg": "rgb(235, 237, 223)",
+        "color_rgb": "RGB(235, 237, 223)",
+        "color_cmyk": "CMYK(10,5,15,0)",
+        "color_hex": "#ebeddf"
+      },
+      {
+        "color_name": "韶粉",
+        "color_color": "rgb(72, 72, 72)",
+        "color_bg": "rgb(224, 224, 208)",
+        "color_rgb": "RGB(224, 224, 208)",
+        "color_cmyk": "CMYK(15,10,20,0)",
+        "color_hex": "#e0e0d0"
+      },
+      {
+        "color_name": "霜地",
+        "color_color": "rgb(46, 46, 46)",
+        "color_bg": "rgb(199, 198, 182)",
+        "color_rgb": "RGB(199, 198, 182)",
+        "color_cmyk": "CMYK(20,15,25,10)",
+        "color_hex": "#c7c6b6"
+      },
+      {
+        "color_name": "夏籥",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(210, 175, 157)",
+        "color_rgb": "RGB(210, 175, 157)",
+        "color_cmyk": "CMYK(20,35,35,0)",
+        "color_hex": "#d2af9d"
+      },
+      {
+        "color_name": "紫磨金",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(188, 131, 107)",
+        "color_rgb": "RGB(188, 131, 107)",
+        "color_cmyk": "CMYK(30,55,55,0)",
+        "color_hex": "#bc836b"
+      },
+      {
+        "color_name": "檀色",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(178, 109, 93)",
+        "color_rgb": "RGB(178, 109, 93)",
+        "color_cmyk": "CMYK(35,65,60,0)",
+        "color_hex": "#b26d5d"
+      },
+      {
+        "color_name": "赭罗",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(154, 102, 85)",
+        "color_rgb": "RGB(154, 102, 85)",
+        "color_cmyk": "CMYK(45,65,65,5)",
+        "color_hex": "#9a6655"
+      },
+      {
+        "color_name": "黄丹",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(234, 85, 20)",
+        "color_rgb": "RGB(234, 85, 20)",
+        "color_cmyk": "CMYK(0,80,95,0)",
+        "color_hex": "#ea5514"
+      },
+      {
+        "color_name": "洛神珠",
+        "color_color": "rgb(248, 248, 248)",
+        "color_bg": "rgb(210, 57, 24)",
+        "color_rgb": "RGB(210, 57, 24)",
+        "color_cmyk": "CMYK(15,90,100,0)",
+        "color_hex": "#d23918"
+      },
+      {
+        "color_name": "丹雘",
+        "color_color": "rgb(226, 226, 226)",
+        "color_bg": "rgb(200, 22, 29)",
+        "color_rgb": "RGB(200, 22, 29)",
+        "color_cmyk": "CMYK(20,100,100,0)",
+        "color_hex": "#c8161d"
+      },
+      {
+        "color_name": "水华朱",
+        "color_color": "rgb(223, 223, 223)",
+        "color_bg": "rgb(167, 33, 38)",
+        "color_rgb": "RGB(167, 33, 38)",
+        "color_cmyk": "CMYK(40,100,100,0)",
+        "color_hex": "#a72126"
+      },
+      {
+        "color_name": "青冥",
+        "color_color": "rgb(251, 251, 251)",
+        "color_bg": "rgb(50, 113, 174)",
+        "color_rgb": "RGB(50, 113, 174)",
+        "color_cmyk": "CMYK(80,50,10,0)",
+        "color_hex": "#3271ae"
+      },
+      {
+        "color_name": "青雘",
+        "color_color": "rgb(229, 229, 229)",
+        "color_bg": "rgb(0, 113, 117)",
+        "color_rgb": "RGB(0, 113, 117)",
+        "color_cmyk": "CMYK(95,45,55,0)",
+        "color_hex": "#07175"
+      },
+      {
+        "color_name": "青緺",
+        "color_color": "rgb(213, 213, 213)",
+        "color_bg": "rgb(40, 72, 82)",
+        "color_rgb": "RGB(40, 72, 82)",
+        "color_cmyk": "CMYK(90,75,65,10)",
+        "color_hex": "#284852"
+      },
+      {
+        "color_name": "骐驎",
+        "color_color": "rgb(186, 186, 186)",
+        "color_bg": "rgb(18, 38, 79)",
+        "color_rgb": "RGB(18, 38, 79)",
+        "color_cmyk": "CMYK(100,95,50,25)",
+        "color_hex": "#12264f"
+      }
+    ]
+  },
+  {
+    "title": "清明",
+    "engtitle": "Fresh Green",
+    "des": "天气晴朗，草木繁茂。",
+    "colorDatas": [
+      {
+        "color_name": "紫蒲",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(166, 85, 157)",
+        "color_rgb": "RGB(166, 85, 157)",
+        "color_cmyk": "CMYK(40,75,0,0)",
+        "color_hex": "#a6559d"
+      },
+      {
+        "color_name": "赪紫",
+        "color_color": "rgb(218, 218, 218)",
+        "color_bg": "rgb(138, 24, 116)",
+        "color_rgb": "RGB(138, 24, 116)",
+        "color_cmyk": "CMYK(55,100,20,0)",
+        "color_hex": "#8a1874"
+      },
+      {
+        "color_name": "齐紫",
+        "color_color": "rgb(214, 214, 214)",
+        "color_bg": "rgb(108, 33, 109)",
+        "color_rgb": "RGB(108, 33, 109)",
+        "color_cmyk": "CMYK(70,100,30,0)",
+        "color_hex": "#6c216d"
+      },
+      {
+        "color_name": "凝夜紫",
+        "color_color": "rgb(199, 199, 199)",
+        "color_bg": "rgb(66, 34, 86)",
+        "color_rgb": "RGB(66, 34, 86)",
+        "color_cmyk": "CMYK(85,100,45,15)",
+        "color_hex": "#422256"
+      },
+      {
+        "color_name": "冻缥",
+        "color_color": "rgb(41, 41, 41)",
+        "color_bg": "rgb(190, 194, 179)",
+        "color_rgb": "RGB(190, 194, 179)",
+        "color_cmyk": "CMYK(30,20,30,0)",
+        "color_hex": "#bec2b3"
+      },
+      {
+        "color_name": "春碧",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(157, 157, 130)",
+        "color_rgb": "RGB(157, 157, 130)",
+        "color_cmyk": "CMYK(45,35,50,0)",
+        "color_hex": "#9d9d82"
+      },
+      {
+        "color_name": "执大象",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(145, 145, 119)",
+        "color_rgb": "RGB(145, 145, 119)",
+        "color_cmyk": "CMYK(50,40,55,0)",
+        "color_hex": "#919177"
+      },
+      {
+        "color_name": "苔古",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(121, 131, 108)",
+        "color_rgb": "RGB(121, 131, 108)",
+        "color_cmyk": "CMYK(60,45,60,0)",
+        "color_hex": "#79836c"
+      },
+      {
+        "color_name": "香炉紫烟",
+        "color_color": "rgb(57, 57, 57)",
+        "color_bg": "rgb(211, 204, 214)",
+        "color_rgb": "RGB(211, 204, 214)",
+        "color_cmyk": "CMYK(20,20,10,0)",
+        "color_hex": "#d3ccd6"
+      },
+      {
+        "color_name": "紫菂",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(155, 142, 169)",
+        "color_rgb": "RGB(155, 142, 169)",
+        "color_cmyk": "CMYK(45,45,20,0)",
+        "color_hex": "#9b8ea9"
+      },
+      {
+        "color_name": "拂紫绵",
+        "color_color": "rgb(250, 250, 250)",
+        "color_bg": "rgb(126, 82, 127)",
+        "color_rgb": "RGB(126, 82, 127)",
+        "color_cmyk": "CMYK(60,75,30,0)",
+        "color_hex": "#7e527f"
+      },
+      {
+        "color_name": "三公子",
+        "color_color": "rgb(229, 229, 229)",
+        "color_bg": "rgb(102, 61, 116)",
+        "color_rgb": "RGB(102, 61, 116)",
+        "color_cmyk": "CMYK(70,85,30,5)",
+        "color_hex": "#663d74"
+      },
+      {
+        "color_name": "琅玕紫",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(203, 92, 131)",
+        "color_rgb": "RGB(203, 92, 131)",
+        "color_cmyk": "CMYK(20,75,25,0)",
+        "color_hex": "#cb5c83"
+      },
+      {
+        "color_name": "红踯躅",
+        "color_color": "rgb(248, 248, 248)",
+        "color_bg": "rgb(184, 53, 112)",
+        "color_rgb": "RGB(184, 53, 112)",
+        "color_cmyk": "CMYK(30,90,30,0)",
+        "color_hex": "#b83570"
+      },
+      {
+        "color_name": "魏红",
+        "color_color": "rgb(243, 243, 243)",
+        "color_bg": "rgb(167, 55, 102)",
+        "color_rgb": "RGB(167, 55, 102)",
+        "color_cmyk": "CMYK(40,90,40,0)",
+        "color_hex": "#a73766"
+      },
+      {
+        "color_name": "魏紫",
+        "color_color": "rgb(234, 234, 234)",
+        "color_bg": "rgb(144, 55, 84)",
+        "color_rgb": "RGB(144, 55, 84)",
+        "color_cmyk": "CMYK(50,90,55,5)",
+        "color_hex": "#903754"
+      }
+    ]
+  },
+  {
+    "title": "谷雨",
+    "engtitle": "Grain Rain",
+    "des": "雨生百谷。雨量充足而及时，谷类作物能茁壮成长。",
+    "colorDatas": [
+      {
+        "color_name": "昌荣",
+        "color_color": "rgb(58, 58, 58)",
+        "color_bg": "rgb(220, 199, 225)",
+        "color_rgb": "RGB(220, 199, 225)",
+        "color_cmyk": "CMYK(15,25,0,0)",
+        "color_hex": "#dcc7e1"
+      },
+      {
+        "color_name": "紫薄汗",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(187, 161, 203)",
+        "color_rgb": "RGB(187, 161, 203)",
+        "color_cmyk": "CMYK(30,40,0,0)",
+        "color_hex": "#bba1cb"
+      },
+      {
+        "color_name": "茈藐",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(166, 126, 183)",
+        "color_rgb": "RGB(166, 126, 183)",
+        "color_cmyk": "CMYK(40,55,0,0)",
+        "color_hex": "#a67eb7"
+      },
+      {
+        "color_name": "紫紶",
+        "color_color": "rgb(250, 250, 250)",
+        "color_bg": "rgb(125, 82, 132)",
+        "color_rgb": "RGB(125, 82, 132)",
+        "color_cmyk": "CMYK(60,75,25,0)",
+        "color_hex": "#7d5284"
+      },
+      {
+        "color_name": "苍葭",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(168, 191, 143)",
+        "color_rgb": "RGB(168, 191, 143)",
+        "color_cmyk": "CMYK(40,15,50,0)",
+        "color_hex": "#a8bf8f"
+      },
+      {
+        "color_name": "庭芜绿",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(104, 148, 92)",
+        "color_rgb": "RGB(104, 148, 92)",
+        "color_cmyk": "CMYK(65,30,75,0)",
+        "color_hex": "#68945c"
+      },
+      {
+        "color_name": "翠微",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(76, 128, 69)",
+        "color_rgb": "RGB(76, 128, 69)",
+        "color_cmyk": "CMYK(75,40,90,0)",
+        "color_hex": "#4c8045"
+      },
+      {
+        "color_name": "翠虬",
+        "color_color": "rgb(238, 238, 238)",
+        "color_bg": "rgb(68, 106, 55)",
+        "color_rgb": "RGB(68, 106, 55)",
+        "color_cmyk": "CMYK(80,55,100,0)",
+        "color_hex": "#446a37"
+      },
+      {
+        "color_name": "碧落",
+        "color_color": "rgb(51, 51, 51)",
+        "color_bg": "rgb(174, 208, 238)",
+        "color_rgb": "RGB(174, 208, 238)",
+        "color_cmyk": "CMYK(35,10,0,0)",
+        "color_hex": "#aed0ee"
+      },
+      {
+        "color_name": "挼蓝",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(110, 155, 197)",
+        "color_rgb": "RGB(110, 155, 197)",
+        "color_cmyk": "CMYK(60,30,10,0)",
+        "color_hex": "#6e9bc5"
+      },
+      {
+        "color_name": "青雀头黛",
+        "color_color": "rgb(223, 223, 223)",
+        "color_bg": "rgb(53, 78, 107)",
+        "color_rgb": "RGB(53, 78, 107)",
+        "color_cmyk": "CMYK(85,70,45,10)",
+        "color_hex": "#354e6b"
+      },
+      {
+        "color_name": "螺子黛",
+        "color_color": "rgb(196, 196, 196)",
+        "color_bg": "rgb(19, 57, 62)",
+        "color_rgb": "RGB(19, 57, 62)",
+        "color_cmyk": "CMYK(95,80,75,25)",
+        "color_hex": "#13393e"
+      },
+      {
+        "color_name": "露褐",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(189, 130, 83)",
+        "color_rgb": "RGB(189, 130, 83)",
+        "color_cmyk": "CMYK(30,55,70,0)",
+        "color_hex": "#bd8253"
+      },
+      {
+        "color_name": "檀褐",
+        "color_color": "rgb(250, 250, 250)",
+        "color_bg": "rgb(148, 86, 53)",
+        "color_rgb": "RGB(148, 86, 53)",
+        "color_cmyk": "CMYK(50,75,90,0)",
+        "color_hex": "#945635"
+      },
+      {
+        "color_name": "緅絺",
+        "color_color": "rgb(238, 238, 238)",
+        "color_bg": "rgb(128, 76, 46)",
+        "color_rgb": "RGB(128, 76, 46)",
+        "color_cmyk": "CMYK(60,80,100,0)",
+        "color_hex": "#804c2e"
+      },
+      {
+        "color_name": "目童子",
+        "color_color": "rgb(210, 210, 210)",
+        "color_bg": "rgb(91, 50, 34)",
+        "color_rgb": "RGB(91, 50, 34)",
+        "color_cmyk": "CMYK(60,80,90,40)",
+        "color_hex": "#5b3222"
+      }
+    ]
+  },
+  {
+    "title": "立夏",
+    "engtitle": "Beginning of Summer",
+    "des": "夏季的开始。",
+    "colorDatas": [
+      {
+        "color_name": "青粲",
+        "color_color": "rgb(44, 44, 44)",
+        "color_bg": "rgb(195, 217, 78)",
+        "color_rgb": "RGB(195, 217, 78)",
+        "color_cmyk": "CMYK(30,0,80,0)",
+        "color_hex": "#c3d94e"
+      },
+      {
+        "color_name": "翠缥",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(183, 211, 50)",
+        "color_rgb": "RGB(183, 211, 50)",
+        "color_cmyk": "CMYK(35,0,90,0)",
+        "color_hex": "#b7d332"
+      },
+      {
+        "color_name": "人籁",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(158, 188, 25)",
+        "color_rgb": "RGB(158, 188, 25)",
+        "color_cmyk": "CMYK(45,10,100,0)",
+        "color_hex": "#9ebc19"
+      },
+      {
+        "color_name": "水龙吟",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(132, 167, 41)",
+        "color_rgb": "RGB(132, 167, 41)",
+        "color_cmyk": "CMYK(55,20,100,0)",
+        "color_hex": "#84a729"
+      },
+      {
+        "color_name": "地籁",
+        "color_color": "rgb(58, 58, 58)",
+        "color_bg": "rgb(223, 206, 180)",
+        "color_rgb": "RGB(223, 206, 180)",
+        "color_cmyk": "CMYK(15,20,30,0)",
+        "color_hex": "#dfceb4"
+      },
+      {
+        "color_name": "大块",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(191, 167, 130)",
+        "color_rgb": "RGB(191, 167, 130)",
+        "color_cmyk": "CMYK(30,35,50,0)",
+        "color_hex": "#bfa782"
+      },
+      {
+        "color_name": "养生主",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(180, 155, 127)",
+        "color_rgb": "RGB(180, 155, 127)",
+        "color_cmyk": "CMYK(35,40,50,0)",
+        "color_hex": "#b49b7f"
+      },
+      {
+        "color_name": "大云",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(148, 120, 79)",
+        "color_rgb": "RGB(148, 120, 79)",
+        "color_cmyk": "CMYK(50,55,75,0)",
+        "color_hex": "#94784f"
+      },
+      {
+        "color_name": "溶溶月",
+        "color_color": "rgb(42, 42, 42)",
+        "color_bg": "rgb(190, 194, 188)",
+        "color_rgb": "RGB(190, 194, 188)",
+        "color_cmyk": "CMYK(30,20,25,0)",
+        "color_hex": "#bec2bc"
+      },
+      {
+        "color_name": "绍衣",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(168, 161, 156)",
+        "color_rgb": "RGB(168, 161, 156)",
+        "color_cmyk": "CMYK(40,35,35,0)",
+        "color_hex": "#a8a19c"
+      },
+      {
+        "color_name": "石莲褐",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(146, 137, 123)",
+        "color_rgb": "RGB(146, 137, 123)",
+        "color_cmyk": "CMYK(50,45,50,0)",
+        "color_hex": "#92897b"
+      },
+      {
+        "color_name": "黑朱",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(112, 105, 93)",
+        "color_rgb": "RGB(112, 105, 93)",
+        "color_cmyk": "CMYK(65,60,65,0)",
+        "color_hex": "#70695d"
+      },
+      {
+        "color_name": "朱颜酡",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(242, 154, 118)",
+        "color_rgb": "RGB(242, 154, 118)",
+        "color_cmyk": "CMYK(0,50,50,0)",
+        "color_hex": "#f29a76"
+      },
+      {
+        "color_name": "苕荣",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(237, 109, 61)",
+        "color_rgb": "RGB(237, 109, 61)",
+        "color_cmyk": "CMYK(0,70,75,0)",
+        "color_hex": "#ed6d3d"
+      },
+      {
+        "color_name": "檎丹",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(233, 72, 41)",
+        "color_rgb": "RGB(233, 72, 41)",
+        "color_cmyk": "CMYK(0,85,85,0)",
+        "color_hex": "#e94829"
+      },
+      {
+        "color_name": "丹罽",
+        "color_color": "rgb(220, 220, 220)",
+        "color_bg": "rgb(230, 0, 18)",
+        "color_rgb": "RGB(230, 0, 18)",
+        "color_cmyk": "CMYK(0,100,100,0)",
+        "color_hex": "#e6012"
+      }
+    ]
+  },
+  {
+    "title": "小满",
+    "engtitle": "Lesser Fullness",
+    "des": "麦类饱满。",
+    "colorDatas": [
+      {
+        "color_name": "彤管",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(226, 162, 172)",
+        "color_rgb": "RGB(226, 162, 172)",
+        "color_cmyk": "CMYK(10,45,20,0)",
+        "color_hex": "#e2a2ac"
+      },
+      {
+        "color_name": "渥赭",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(221, 107, 123)",
+        "color_rgb": "RGB(221, 107, 123)",
+        "color_cmyk": "CMYK(10,70,35,0)",
+        "color_hex": "#dd6b7b"
+      },
+      {
+        "color_name": "唇脂",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(194, 81, 96)",
+        "color_rgb": "RGB(194, 81, 96)",
+        "color_cmyk": "CMYK(25,80,50,0)",
+        "color_hex": "#c25160"
+      },
+      {
+        "color_name": "朱孔阳",
+        "color_color": "rgb(226, 226, 226)",
+        "color_bg": "rgb(184, 26, 53)",
+        "color_rgb": "RGB(184, 26, 53)",
+        "color_cmyk": "CMYK(30,100,80,0)",
+        "color_hex": "#b81a35"
+      },
+      {
+        "color_name": "石发",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(106, 141, 82)",
+        "color_rgb": "RGB(106, 141, 82)",
+        "color_cmyk": "CMYK(65,35,80,0)",
+        "color_hex": "#6a8d52"
+      },
+      {
+        "color_name": "漆姑",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(93, 131, 81)",
+        "color_rgb": "RGB(93, 131, 81)",
+        "color_cmyk": "CMYK(70,40,80,0)",
+        "color_hex": "#5d8351"
+      },
+      {
+        "color_name": "芰荷",
+        "color_color": "rgb(253, 253, 253)",
+        "color_bg": "rgb(79, 121, 74)",
+        "color_rgb": "RGB(79, 121, 74)",
+        "color_cmyk": "CMYK(75,45,85,0)",
+        "color_hex": "#4f794a"
+      },
+      {
+        "color_name": "官绿",
+        "color_color": "rgb(234, 234, 234)",
+        "color_bg": "rgb(42, 110, 63)",
+        "color_rgb": "RGB(42, 110, 63)",
+        "color_cmyk": "CMYK(85,50,95,0)",
+        "color_hex": "#2a6e3f"
+      },
+      {
+        "color_name": "仙米",
+        "color_color": "rgb(50, 50, 50)",
+        "color_bg": "rgb(212, 201, 170)",
+        "color_rgb": "RGB(212, 201, 170)",
+        "color_cmyk": "CMYK(20,20,35,0)",
+        "color_hex": "#d4c9aa"
+      },
+      {
+        "color_name": "黄螺",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(180, 163, 121)",
+        "color_rgb": "RGB(180, 163, 121)",
+        "color_cmyk": "CMYK(35,35,55,0)",
+        "color_hex": "#b4a379"
+      },
+      {
+        "color_name": "降真香",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(158, 131, 88)",
+        "color_rgb": "RGB(158, 131, 88)",
+        "color_cmyk": "CMYK(45,50,70,0)",
+        "color_hex": "#9e8358"
+      },
+      {
+        "color_name": "远志",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(129, 102, 59)",
+        "color_rgb": "RGB(129, 102, 59)",
+        "color_cmyk": "CMYK(55,60,85,10)",
+        "color_hex": "#81663b"
+      },
+      {
+        "color_name": "嫩鹅黄",
+        "color_color": "rgb(51, 51, 51)",
+        "color_bg": "rgb(242, 200, 103)",
+        "color_rgb": "RGB(242, 200, 103)",
+        "color_cmyk": "CMYK(5,25,65,0)",
+        "color_hex": "#f2c867"
+      },
+      {
+        "color_name": "鞠衣",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(211, 162, 55)",
+        "color_rgb": "RGB(211, 162, 55)",
+        "color_cmyk": "CMYK(20,40,85,0)",
+        "color_hex": "#d3a237"
+      },
+      {
+        "color_name": "郁金裙",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(208, 134, 53)",
+        "color_rgb": "RGB(208, 134, 53)",
+        "color_cmyk": "CMYK(20,55,85,0)",
+        "color_hex": "#d08635"
+      },
+      {
+        "color_name": "黄流",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(159, 96, 39)",
+        "color_rgb": "RGB(159, 96, 39)",
+        "color_cmyk": "CMYK(45,70,100,0)",
+        "color_hex": "#9f6027"
+      }
+    ]
+  },
+  {
+    "title": "芒种",
+    "engtitle": "Grain in Ear",
+    "des": "麦类成熟。",
+    "colorDatas": [
+      {
+        "color_name": "筠雾",
+        "color_color": "rgb(56, 56, 56)",
+        "color_bg": "rgb(213, 209, 174)",
+        "color_rgb": "RGB(213, 209, 174)",
+        "color_cmyk": "CMYK(20,15,35,0)",
+        "color_hex": "#d5d1ae"
+      },
+      {
+        "color_name": "瓷秘",
+        "color_color": "rgb(36, 36, 36)",
+        "color_bg": "rgb(191, 192, 150)",
+        "color_rgb": "RGB(191, 192, 150)",
+        "color_cmyk": "CMYK(30,20,45,0)",
+        "color_hex": "#bfc096"
+      },
+      {
+        "color_name": "琬琰",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(169, 168, 134)",
+        "color_rgb": "RGB(169, 168, 134)",
+        "color_cmyk": "CMYK(40,30,50,0)",
+        "color_hex": "#a9a886"
+      },
+      {
+        "color_name": "青圭",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(146, 144, 93)",
+        "color_rgb": "RGB(146, 144, 93)",
+        "color_cmyk": "CMYK(50,40,70,0)",
+        "color_hex": "#92905d"
+      },
+      {
+        "color_name": "鸣珂",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(179, 181, 156)",
+        "color_rgb": "RGB(179, 181, 156)",
+        "color_cmyk": "CMYK(35,25,40,0)",
+        "color_hex": "#b3b59c"
+      },
+      {
+        "color_name": "青玉案",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(168, 176, 146)",
+        "color_rgb": "RGB(168, 176, 146)",
+        "color_cmyk": "CMYK(40,25,45,0)",
+        "color_hex": "#a8b092"
+      },
+      {
+        "color_name": "出岫",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(169, 167, 115)",
+        "color_rgb": "RGB(169, 167, 115)",
+        "color_cmyk": "CMYK(40,30,60,0)",
+        "color_hex": "#a9a773"
+      },
+      {
+        "color_name": "风入松",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(134, 140, 78)",
+        "color_rgb": "RGB(134, 140, 78)",
+        "color_cmyk": "CMYK(55,40,80,0)",
+        "color_hex": "#868c4e"
+      },
+      {
+        "color_name": "如梦令",
+        "color_color": "rgb(43, 43, 43)",
+        "color_bg": "rgb(221, 187, 153)",
+        "color_rgb": "RGB(221, 187, 153)",
+        "color_cmyk": "CMYK(15,30,40,0)",
+        "color_hex": "#ddbb99"
+      },
+      {
+        "color_name": "芸黄",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(210, 163, 108)",
+        "color_rgb": "RGB(210, 163, 108)",
+        "color_cmyk": "CMYK(20,40,60,0)",
+        "color_hex": "#d2a36c"
+      },
+      {
+        "color_name": "金埒",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(190, 148, 87)",
+        "color_rgb": "RGB(190, 148, 87)",
+        "color_cmyk": "CMYK(30,45,70,0)",
+        "color_hex": "#be9457"
+      },
+      {
+        "color_name": "雌黄",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(180, 136, 77)",
+        "color_rgb": "RGB(180, 136, 77)",
+        "color_cmyk": "CMYK(35,50,75,0)",
+        "color_hex": "#b4884d"
+      },
+      {
+        "color_name": "曾青",
+        "color_color": "rgb(233, 233, 233)",
+        "color_bg": "rgb(83, 81, 100)",
+        "color_rgb": "RGB(83, 81, 100)",
+        "color_cmyk": "CMYK(75,70,50,10)",
+        "color_hex": "#535164"
+      },
+      {
+        "color_name": "䒌靘",
+        "color_color": "rgb(221, 221, 221)",
+        "color_bg": "rgb(69, 70, 89)",
+        "color_rgb": "RGB(69, 70, 89)",
+        "color_cmyk": "CMYK(80,75,55,15)",
+        "color_hex": "#454659"
+      },
+      {
+        "color_name": "璆琳",
+        "color_color": "rgb(201, 201, 201)",
+        "color_bg": "rgb(52, 48, 65)",
+        "color_rgb": "RGB(52, 48, 65)",
+        "color_cmyk": "CMYK(85,85,65,30)",
+        "color_hex": "#343041"
+      },
+      {
+        "color_name": "瑾瑜",
+        "color_color": "rgb(187, 187, 187)",
+        "color_bg": "rgb(30, 39, 50)",
+        "color_rgb": "RGB(30, 39, 50)",
+        "color_cmyk": "CMYK(90,85,70,45)",
+        "color_hex": "#1e2732"
+      }
+    ]
+  },
+  {
+    "title": "夏至",
+    "engtitle": "Summer Solstice",
+    "des": "炎热的夏天来临。",
+    "colorDatas": [
+      {
+        "color_name": "赩炽",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(203, 82, 62)",
+        "color_rgb": "RGB(203, 82, 62)",
+        "color_cmyk": "CMYK(20,80,75,0)",
+        "color_hex": "#cb523e"
+      },
+      {
+        "color_name": "石榴裙",
+        "color_color": "rgb(242, 242, 242)",
+        "color_bg": "rgb(177, 59, 46)",
+        "color_rgb": "RGB(177, 59, 46)",
+        "color_cmyk": "CMYK(35,90,90,0)",
+        "color_hex": "#b13b2e"
+      },
+      {
+        "color_name": "朱湛",
+        "color_color": "rgb(227, 227, 227)",
+        "color_bg": "rgb(149, 48, 46)",
+        "color_rgb": "RGB(149, 48, 46)",
+        "color_cmyk": "CMYK(50,95,95,0)",
+        "color_hex": "#95302e"
+      },
+      {
+        "color_name": "大繎",
+        "color_color": "rgb(213, 213, 213)",
+        "color_bg": "rgb(130, 35, 39)",
+        "color_rgb": "RGB(130, 35, 39)",
+        "color_cmyk": "CMYK(55,100,100,10)",
+        "color_hex": "#822327"
+      },
+      {
+        "color_name": "月魄",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(178, 182, 182)",
+        "color_rgb": "RGB(178, 182, 182)",
+        "color_cmyk": "CMYK(35,25,25,0)",
+        "color_hex": "#b2b6b6"
+      },
+      {
+        "color_name": "不皂",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(167, 170, 161)",
+        "color_rgb": "RGB(167, 170, 161)",
+        "color_cmyk": "CMYK(40,30,35,0)",
+        "color_hex": "#a7aaa1"
+      },
+      {
+        "color_name": "雷雨垂",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(122, 123, 120)",
+        "color_rgb": "RGB(122, 123, 120)",
+        "color_cmyk": "CMYK(60,50,50,0)",
+        "color_hex": "#7a7b78"
+      },
+      {
+        "color_name": "石涅",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(104, 106, 103)",
+        "color_rgb": "RGB(104, 106, 103)",
+        "color_cmyk": "CMYK(65,55,55,10)",
+        "color_hex": "#686a67"
+      },
+      {
+        "color_name": "扶光",
+        "color_color": "rgb(54, 54, 54)",
+        "color_bg": "rgb(240, 194, 162)",
+        "color_rgb": "RGB(240, 194, 162)",
+        "color_cmyk": "CMYK(5,30,35,0)",
+        "color_hex": "#f0c2a2"
+      },
+      {
+        "color_name": "椒房",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(219, 156, 94)",
+        "color_rgb": "RGB(219, 156, 94)",
+        "color_cmyk": "CMYK(15,45,65,0)",
+        "color_hex": "#db9c5e"
+      },
+      {
+        "color_name": "红友",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(217, 136, 61)",
+        "color_rgb": "RGB(217, 136, 61)",
+        "color_cmyk": "CMYK(15,55,80,0)",
+        "color_hex": "#d9883d"
+      },
+      {
+        "color_name": "光明砂",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(204, 93, 32)",
+        "color_rgb": "RGB(204, 93, 32)",
+        "color_cmyk": "CMYK(20,75,95,0)",
+        "color_hex": "#cc5d20"
+      },
+      {
+        "color_name": "山矾",
+        "color_color": "rgb(93, 93, 93)",
+        "color_bg": "rgb(245, 243, 242)",
+        "color_rgb": "RGB(245, 243, 242)",
+        "color_cmyk": "CMYK(5,5,5,0)",
+        "color_hex": "#f5f3f2"
+      },
+      {
+        "color_name": "玉頩",
+        "color_color": "rgb(80, 80, 80)",
+        "color_bg": "rgb(234, 229, 227)",
+        "color_rgb": "RGB(234, 229, 227)",
+        "color_cmyk": "CMYK(10,10,10,0)",
+        "color_hex": "#eae5e3"
+      },
+      {
+        "color_name": "二目鱼",
+        "color_color": "rgb(72, 72, 72)",
+        "color_bg": "rgb(223, 224, 217)",
+        "color_rgb": "RGB(223, 224, 217)",
+        "color_cmyk": "CMYK(15,10,15,0)",
+        "color_hex": "#dfe0d9"
+      },
+      {
+        "color_name": "明月珰",
+        "color_color": "rgb(60, 60, 60)",
+        "color_bg": "rgb(212, 211, 202)",
+        "color_rgb": "RGB(212, 211, 202)",
+        "color_cmyk": "CMYK(20,15,20,0)",
+        "color_hex": "#d4d3ca"
+      }
+    ]
+  },
+  {
+    "title": "小暑",
+    "engtitle": "Lesser Heat",
+    "des": "'暑'是炎热的意思。小暑就是气候开始炎热。",
+    "colorDatas": [
+      {
+        "color_name": "骍刚",
+        "color_color": "rgb(41, 41, 41)",
+        "color_bg": "rgb(245, 176, 135)",
+        "color_rgb": "RGB(245, 176, 135)",
+        "color_cmyk": "CMYK(0,40,45,0)",
+        "color_hex": "#f5b087"
+      },
+      {
+        "color_name": "赪霞",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(241, 143, 96)",
+        "color_rgb": "RGB(241, 143, 96)",
+        "color_cmyk": "CMYK(0,55,60,0)",
+        "color_hex": "#f18f60"
+      },
+      {
+        "color_name": "赪尾",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(239, 132, 93)",
+        "color_rgb": "RGB(239, 132, 93)",
+        "color_cmyk": "CMYK(0,60,60,0)",
+        "color_hex": "#ef845d"
+      },
+      {
+        "color_name": "朱柿",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(237, 109, 70)",
+        "color_rgb": "RGB(237, 109, 70)",
+        "color_cmyk": "CMYK(0,70,70,0)",
+        "color_hex": "#ed6d46"
+      },
+      {
+        "color_name": "天球",
+        "color_color": "rgb(70, 70, 70)",
+        "color_bg": "rgb(224, 223, 198)",
+        "color_rgb": "RGB(224, 223, 198)",
+        "color_cmyk": "CMYK(15,10,25,0)",
+        "color_hex": "#e0dfc6"
+      },
+      {
+        "color_name": "行香子",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(191, 185, 156)",
+        "color_rgb": "RGB(191, 185, 156)",
+        "color_cmyk": "CMYK(30,25,40,0)",
+        "color_hex": "#bfb99c"
+      },
+      {
+        "color_name": "王刍",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(169, 159, 112)",
+        "color_rgb": "RGB(169, 159, 112)",
+        "color_cmyk": "CMYK(40,35,60,0)",
+        "color_hex": "#a99f70"
+      },
+      {
+        "color_name": "荩箧",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(135, 125, 82)",
+        "color_rgb": "RGB(135, 125, 82)",
+        "color_cmyk": "CMYK(55,50,75,0)",
+        "color_hex": "#877d52"
+      },
+      {
+        "color_name": "赤灵",
+        "color_color": "rgb(236, 236, 236)",
+        "color_bg": "rgb(149, 64, 36)",
+        "color_rgb": "RGB(149, 64, 36)",
+        "color_cmyk": "CMYK(45,85,100,10)",
+        "color_hex": "#954024"
+      },
+      {
+        "color_name": "丹秫",
+        "color_color": "rgb(224, 224, 224)",
+        "color_bg": "rgb(135, 52, 36)",
+        "color_rgb": "RGB(135, 52, 36)",
+        "color_cmyk": "CMYK(50,90,100,15)",
+        "color_hex": "#873424"
+      },
+      {
+        "color_name": "木兰",
+        "color_color": "rgb(209, 209, 209)",
+        "color_bg": "rgb(102, 43, 31)",
+        "color_rgb": "RGB(102, 43, 31)",
+        "color_cmyk": "CMYK(60,90,100,30)",
+        "color_hex": "#662b1f"
+      },
+      {
+        "color_name": "麒麟竭",
+        "color_color": "rgb(193, 193, 193)",
+        "color_bg": "rgb(76, 30, 26)",
+        "color_rgb": "RGB(76, 30, 26)",
+        "color_cmyk": "CMYK(70,95,100,40)",
+        "color_hex": "#4c1e1a"
+      },
+      {
+        "color_name": "柔蓝",
+        "color_color": "rgb(233, 233, 233)",
+        "color_bg": "rgb(16, 104, 152)",
+        "color_rgb": "RGB(16, 104, 152)",
+        "color_cmyk": "CMYK(85,50,20,10)",
+        "color_hex": "#106898"
+      },
+      {
+        "color_name": "碧城",
+        "color_color": "rgb(216, 216, 216)",
+        "color_bg": "rgb(18, 80, 123)",
+        "color_rgb": "RGB(18, 80, 123)",
+        "color_cmyk": "CMYK(90,65,30,15)",
+        "color_hex": "#12507b"
+      },
+      {
+        "color_name": "蓝采和",
+        "color_color": "rgb(203, 203, 203)",
+        "color_bg": "rgb(6, 67, 111)",
+        "color_rgb": "RGB(6, 67, 111)",
+        "color_cmyk": "CMYK(95,75,35,15)",
+        "color_hex": "#6436f"
+      },
+      {
+        "color_name": "帝释青",
+        "color_color": "rgb(191, 191, 191)",
+        "color_bg": "rgb(0, 52, 96)",
+        "color_rgb": "RGB(0, 52, 96)",
+        "color_cmyk": "CMYK(100,85,40,20)",
+        "color_hex": "#03460"
+      }
+    ]
+  },
+  {
+    "title": "大暑",
+    "engtitle": "Greater Heat",
+    "des": "一年中最热的时候。",
+    "colorDatas": [
+      {
+        "color_name": "夕岚",
+        "color_color": "rgb(40, 40, 40)",
+        "color_bg": "rgb(227, 173, 185)",
+        "color_rgb": "RGB(227, 173, 185)",
+        "color_cmyk": "CMYK(10,40,15,0)",
+        "color_hex": "#e3adb9"
+      },
+      {
+        "color_name": "雌霓",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(207, 146, 158)",
+        "color_rgb": "RGB(207, 146, 158)",
+        "color_cmyk": "CMYK(20,50,25,0)",
+        "color_hex": "#cf929e"
+      },
+      {
+        "color_name": "绛纱",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(178, 119, 119)",
+        "color_rgb": "RGB(178, 119, 119)",
+        "color_cmyk": "CMYK(35,60,45,0)",
+        "color_hex": "#b27777"
+      },
+      {
+        "color_name": "茹藘",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(163, 95, 101)",
+        "color_rgb": "RGB(163, 95, 101)",
+        "color_cmyk": "CMYK(40,70,50,5)",
+        "color_hex": "#a35f65"
+      },
+      {
+        "color_name": "葱青",
+        "color_color": "rgb(83, 83, 83)",
+        "color_bg": "rgb(237, 241, 187)",
+        "color_rgb": "RGB(237, 241, 187)",
+        "color_cmyk": "CMYK(10,0,35,0)",
+        "color_hex": "#edf1bb"
+      },
+      {
+        "color_name": "少艾",
+        "color_color": "rgb(73, 73, 73)",
+        "color_bg": "rgb(227, 235, 152)",
+        "color_rgb": "RGB(227, 235, 152)",
+        "color_cmyk": "CMYK(15,0,50,0)",
+        "color_hex": "#e3eb98"
+      },
+      {
+        "color_name": "绮钱",
+        "color_color": "rgb(60, 60, 60)",
+        "color_bg": "rgb(216, 222, 138)",
+        "color_rgb": "RGB(216, 222, 138)",
+        "color_cmyk": "CMYK(20,5,55,0)",
+        "color_hex": "#d8de8a"
+      },
+      {
+        "color_name": "翠樽",
+        "color_color": "rgb(46, 46, 46)",
+        "color_bg": "rgb(205, 209, 113)",
+        "color_rgb": "RGB(205, 209, 113)",
+        "color_cmyk": "CMYK(25,10,65,0)",
+        "color_hex": "#cdd171"
+      },
+      {
+        "color_name": "石蜜",
+        "color_color": "rgb(41, 41, 41)",
+        "color_bg": "rgb(212, 191, 137)",
+        "color_rgb": "RGB(212, 191, 137)",
+        "color_cmyk": "CMYK(20,25,50,0)",
+        "color_hex": "#d4bf89"
+      },
+      {
+        "color_name": "沙饧",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(191, 166, 112)",
+        "color_rgb": "RGB(191, 166, 112)",
+        "color_cmyk": "CMYK(30,35,60,0)",
+        "color_hex": "#bfa670"
+      },
+      {
+        "color_name": "巨吕",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(170, 142, 89)",
+        "color_rgb": "RGB(170, 142, 89)",
+        "color_cmyk": "CMYK(40,45,70,0)",
+        "color_hex": "#aa8e59"
+      },
+      {
+        "color_name": "吉金",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(137, 109, 71)",
+        "color_rgb": "RGB(137, 109, 71)",
+        "color_cmyk": "CMYK(55,60,80,0)",
+        "color_hex": "#896d47"
+      },
+      {
+        "color_name": "山岚",
+        "color_color": "rgb(51, 51, 51)",
+        "color_bg": "rgb(190, 210, 187)",
+        "color_rgb": "RGB(190, 210, 187)",
+        "color_cmyk": "CMYK(30,10,30,0)",
+        "color_hex": "#bed2bb"
+      },
+      {
+        "color_name": "渌波",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(155, 180, 150)",
+        "color_rgb": "RGB(155, 180, 150)",
+        "color_cmyk": "CMYK(45,20,45,0)",
+        "color_hex": "#9bb496"
+      },
+      {
+        "color_name": "青楸",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(129, 163, 128)",
+        "color_rgb": "RGB(129, 163, 128)",
+        "color_cmyk": "CMYK(55,25,55,0)",
+        "color_hex": "#81a380"
+      },
+      {
+        "color_name": "菉竹",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(105, 142, 106)",
+        "color_rgb": "RGB(105, 142, 106)",
+        "color_cmyk": "CMYK(65,35,65,0)",
+        "color_hex": "#698e6a"
+      }
+    ]
+  },
+  {
+    "title": "立秋",
+    "engtitle": "Beginning of Autumn",
+    "des": "秋季的开始。",
+    "colorDatas": [
+      {
+        "color_name": "窃蓝",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(136, 171, 218)",
+        "color_rgb": "RGB(136, 171, 218)",
+        "color_cmyk": "CMYK(50,25,0,0)",
+        "color_hex": "#88abda"
+      },
+      {
+        "color_name": "监德",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(111, 148, 205)",
+        "color_rgb": "RGB(111, 148, 205)",
+        "color_cmyk": "CMYK(60,35,0,0)",
+        "color_hex": "#6f94cd"
+      },
+      {
+        "color_name": "苍苍",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(89, 118, 186)",
+        "color_rgb": "RGB(89, 118, 186)",
+        "color_cmyk": "CMYK(70,50,0,0)",
+        "color_hex": "#5976ba"
+      },
+      {
+        "color_name": "群青",
+        "color_color": "rgb(235, 235, 235)",
+        "color_bg": "rgb(46, 89, 167)",
+        "color_rgb": "RGB(46, 89, 167)",
+        "color_cmyk": "CMYK(85,65,0,0)",
+        "color_hex": "#2e59a7"
+      },
+      {
+        "color_name": "白青",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(152, 182, 194)",
+        "color_rgb": "RGB(152, 182, 194)",
+        "color_cmyk": "CMYK(45,20,20,0)",
+        "color_hex": "#98b6c2"
+      },
+      {
+        "color_name": "竹月",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(127, 159, 175)",
+        "color_rgb": "RGB(127, 159, 175)",
+        "color_cmyk": "CMYK(55,30,25,0)",
+        "color_hex": "#7f9faf"
+      },
+      {
+        "color_name": "空青",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(102, 136, 158)",
+        "color_rgb": "RGB(102, 136, 158)",
+        "color_cmyk": "CMYK(65,40,30,0)",
+        "color_hex": "#66889e"
+      },
+      {
+        "color_name": "太师青",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(84, 118, 137)",
+        "color_rgb": "RGB(84, 118, 137)",
+        "color_cmyk": "CMYK(70,45,35,10)",
+        "color_hex": "#547689"
+      },
+      {
+        "color_name": "缟羽",
+        "color_color": "rgb(88, 88, 88)",
+        "color_bg": "rgb(239, 239, 239)",
+        "color_rgb": "RGB(239, 239, 239)",
+        "color_cmyk": "CMYK(0,0,0,10)",
+        "color_hex": "#efefef"
+      },
+      {
+        "color_name": "香皮",
+        "color_color": "rgb(59, 59, 59)",
+        "color_bg": "rgb(216, 209, 197)",
+        "color_rgb": "RGB(216, 209, 197)",
+        "color_cmyk": "CMYK(15,15,20,5)",
+        "color_hex": "#d8d1c5"
+      },
+      {
+        "color_name": "云母",
+        "color_color": "rgb(40, 40, 40)",
+        "color_bg": "rgb(198, 190, 177)",
+        "color_rgb": "RGB(198, 190, 177)",
+        "color_cmyk": "CMYK(20,20,25,10)",
+        "color_hex": "#c6beb1"
+      },
+      {
+        "color_name": "佩玖",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(172, 159, 138)",
+        "color_rgb": "RGB(172, 159, 138)",
+        "color_cmyk": "CMYK(30,30,40,15)",
+        "color_hex": "#ac9f8a"
+      },
+      {
+        "color_name": "麹尘",
+        "color_color": "rgb(47, 47, 47)",
+        "color_bg": "rgb(192, 208, 157)",
+        "color_rgb": "RGB(192, 208, 157)",
+        "color_cmyk": "CMYK(30,10,45,0)",
+        "color_hex": "#c0d09d"
+      },
+      {
+        "color_name": "绿沈",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(147, 143, 76)",
+        "color_rgb": "RGB(147, 143, 76)",
+        "color_cmyk": "CMYK(50,40,80,0)",
+        "color_hex": "#938f4c"
+      },
+      {
+        "color_name": "绞衣",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(127, 117, 76)",
+        "color_rgb": "RGB(127, 117, 76)",
+        "color_cmyk": "CMYK(55,50,75,10)",
+        "color_hex": "#7f754c"
+      },
+      {
+        "color_name": "素綦",
+        "color_color": "rgb(231, 231, 231)",
+        "color_bg": "rgb(89, 83, 51)",
+        "color_rgb": "RGB(89, 83, 51)",
+        "color_cmyk": "CMYK(70,65,90,20)",
+        "color_hex": "#595333"
+      }
+    ]
+  },
+  {
+    "title": "处暑",
+    "engtitle": "End of Heat",
+    "des": "'处'是终止、躲藏的意思。处暑是表示炎热的暑天结束。",
+    "colorDatas": [
+      {
+        "color_name": "退红",
+        "color_color": "rgb(69, 69, 69)",
+        "color_bg": "rgb(240, 207, 227)",
+        "color_rgb": "RGB(240, 207, 227)",
+        "color_cmyk": "CMYK(5,25,0,0)",
+        "color_hex": "#f0cfe3"
+      },
+      {
+        "color_name": "樱花",
+        "color_color": "rgb(50, 50, 50)",
+        "color_bg": "rgb(228, 184, 213)",
+        "color_rgb": "RGB(228, 184, 213)",
+        "color_cmyk": "CMYK(10,35,0,0)",
+        "color_hex": "#e4b8d5"
+      },
+      {
+        "color_name": "丁香",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(206, 147, 191)",
+        "color_rgb": "RGB(206, 147, 191)",
+        "color_cmyk": "CMYK(20,50,0,0)",
+        "color_hex": "#ce93bf"
+      },
+      {
+        "color_name": "木槿",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(186, 121, 177)",
+        "color_rgb": "RGB(186, 121, 177)",
+        "color_cmyk": "CMYK(30,60,0,0)",
+        "color_hex": "#ba79b1"
+      },
+      {
+        "color_name": "余白",
+        "color_color": "rgb(53, 53, 53)",
+        "color_bg": "rgb(201, 207, 193)",
+        "color_rgb": "RGB(201, 207, 193)",
+        "color_cmyk": "CMYK(25,15,25,0)",
+        "color_hex": "#c9cfc1"
+      },
+      {
+        "color_name": "兰苕",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(168, 183, 140)",
+        "color_rgb": "RGB(168, 183, 140)",
+        "color_cmyk": "CMYK(40,20,50,0)",
+        "color_hex": "#a8b78c"
+      },
+      {
+        "color_name": "碧滋",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(144, 160, 125)",
+        "color_rgb": "RGB(144, 160, 125)",
+        "color_cmyk": "CMYK(50,30,55,0)",
+        "color_hex": "#90a07d"
+      },
+      {
+        "color_name": "葱倩",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(108, 134, 80)",
+        "color_rgb": "RGB(108, 134, 80)",
+        "color_cmyk": "CMYK(65,40,80,0)",
+        "color_hex": "#6c8650"
+      },
+      {
+        "color_name": "云门",
+        "color_color": "rgb(47, 47, 47)",
+        "color_bg": "rgb(162, 210, 226)",
+        "color_rgb": "RGB(162, 210, 226)",
+        "color_cmyk": "CMYK(40,5,10,0)",
+        "color_hex": "#a2d2e2"
+      },
+      {
+        "color_name": "西子",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(135, 192, 202)",
+        "color_rgb": "RGB(135, 192, 202)",
+        "color_cmyk": "CMYK(50,10,20,0)",
+        "color_hex": "#87c0ca"
+      },
+      {
+        "color_name": "天水碧",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(90, 164, 174)",
+        "color_rgb": "RGB(90, 164, 174)",
+        "color_cmyk": "CMYK(65,20,30,0)",
+        "color_hex": "#5aa4ae"
+      },
+      {
+        "color_name": "法翠",
+        "color_color": "rgb(253, 253, 253)",
+        "color_bg": "rgb(16, 139, 150)",
+        "color_rgb": "RGB(16, 139, 150)",
+        "color_cmyk": "CMYK(80,30,40,0)",
+        "color_hex": "#108b96"
+      },
+      {
+        "color_name": "桑蕾",
+        "color_color": "rgb(64, 64, 64)",
+        "color_bg": "rgb(234, 216, 154)",
+        "color_rgb": "RGB(234, 216, 154)",
+        "color_cmyk": "CMYK(10,15,45,0)",
+        "color_hex": "#ead89a"
+      },
+      {
+        "color_name": "太一余粮",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(213, 180, 92)",
+        "color_rgb": "RGB(213, 180, 92)",
+        "color_cmyk": "CMYK(20,30,70,0)",
+        "color_hex": "#d5b45c"
+      },
+      {
+        "color_name": "秋香",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(191, 156, 70)",
+        "color_rgb": "RGB(191, 156, 70)",
+        "color_cmyk": "CMYK(30,40,80,0)",
+        "color_hex": "#bf9c46"
+      },
+      {
+        "color_name": "老茯神",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(170, 133, 52)",
+        "color_rgb": "RGB(170, 133, 52)",
+        "color_cmyk": "CMYK(40,50,90,0)",
+        "color_hex": "#aa8534"
+      }
+    ]
+  },
+  {
+    "title": "白露",
+    "engtitle": "White Dew",
+    "des": "天气转凉，露凝而白。",
+    "colorDatas": [
+      {
+        "color_name": "凝脂",
+        "color_color": "rgb(91, 91, 91)",
+        "color_bg": "rgb(245, 242, 233)",
+        "color_rgb": "RGB(245, 242, 233)",
+        "color_cmyk": "CMYK(5,5,10,0)",
+        "color_hex": "#f5f2e9"
+      },
+      {
+        "color_name": "玉色",
+        "color_color": "rgb(77, 77, 77)",
+        "color_bg": "rgb(234, 228, 209)",
+        "color_rgb": "RGB(234, 228, 209)",
+        "color_cmyk": "CMYK(10,10,20,0)",
+        "color_hex": "#eae4d1"
+      },
+      {
+        "color_name": "黄润",
+        "color_color": "rgb(63, 63, 63)",
+        "color_bg": "rgb(223, 214, 184)",
+        "color_rgb": "RGB(223, 214, 184)",
+        "color_cmyk": "CMYK(15,15,30,0)",
+        "color_hex": "#dfd6b8"
+      },
+      {
+        "color_name": "缣缃",
+        "color_color": "rgb(49, 49, 49)",
+        "color_bg": "rgb(213, 200, 160)",
+        "color_rgb": "RGB(213, 200, 160)",
+        "color_cmyk": "CMYK(20,20,40,0)",
+        "color_hex": "#d5c8a0"
+      },
+      {
+        "color_name": "蕉月",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(134, 144, 138)",
+        "color_rgb": "RGB(134, 144, 138)",
+        "color_cmyk": "CMYK(50,35,40,10)",
+        "color_hex": "#86908a"
+      },
+      {
+        "color_name": "千山翠",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(107, 125, 115)",
+        "color_rgb": "RGB(107, 125, 115)",
+        "color_cmyk": "CMYK(60,40,50,15)",
+        "color_hex": "#6b7d73"
+      },
+      {
+        "color_name": "结绿",
+        "color_color": "rgb(239, 239, 239)",
+        "color_bg": "rgb(85, 95, 77)",
+        "color_rgb": "RGB(85, 95, 77)",
+        "color_cmyk": "CMYK(70,55,70,20)",
+        "color_hex": "#555f4d"
+      },
+      {
+        "color_name": "绿云",
+        "color_color": "rgb(220, 220, 220)",
+        "color_bg": "rgb(69, 73, 61)",
+        "color_rgb": "RGB(69, 73, 61)",
+        "color_cmyk": "CMYK(75,65,75,30)",
+        "color_hex": "#45493d"
+      },
+      {
+        "color_name": "藕丝秋半",
+        "color_color": "rgb(54, 54, 54)",
+        "color_bg": "rgb(211, 203, 197)",
+        "color_rgb": "RGB(211, 203, 197)",
+        "color_cmyk": "CMYK(20,20,20,0)",
+        "color_hex": "#d3cbc5"
+      },
+      {
+        "color_name": "苍烟落照",
+        "color_color": "rgb(36, 36, 36)",
+        "color_bg": "rgb(200, 181, 179)",
+        "color_rgb": "RGB(200, 181, 179)",
+        "color_cmyk": "CMYK(25,30,25,0)",
+        "color_hex": "#c8b5b3"
+      },
+      {
+        "color_name": "红藤杖",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(146, 129, 135)",
+        "color_rgb": "RGB(146, 129, 135)",
+        "color_cmyk": "CMYK(50,50,40,0)",
+        "color_hex": "#928187"
+      },
+      {
+        "color_name": "紫鼠",
+        "color_color": "rgb(231, 231, 231)",
+        "color_bg": "rgb(89, 76, 87)",
+        "color_rgb": "RGB(89, 76, 87)",
+        "color_cmyk": "CMYK(65,65,50,30)",
+        "color_hex": "#594c57"
+      },
+      {
+        "color_name": "黄粱",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(196, 183, 152)",
+        "color_rgb": "RGB(196, 183, 152)",
+        "color_cmyk": "CMYK(25,25,40,5)",
+        "color_hex": "#c4b798"
+      },
+      {
+        "color_name": "蒸栗",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(165, 138, 95)",
+        "color_rgb": "RGB(165, 138, 95)",
+        "color_cmyk": "CMYK(40,45,65,5)",
+        "color_hex": "#a58a5f"
+      },
+      {
+        "color_name": "射干",
+        "color_color": "rgb(251, 251, 251)",
+        "color_bg": "rgb(124, 98, 63)",
+        "color_rgb": "RGB(124, 98, 63)",
+        "color_cmyk": "CMYK(55,60,80,15)",
+        "color_hex": "#7c623f"
+      },
+      {
+        "color_name": "油葫芦",
+        "color_color": "rgb(230, 230, 230)",
+        "color_bg": "rgb(100, 77, 49)",
+        "color_rgb": "RGB(100, 77, 49)",
+        "color_cmyk": "CMYK(65,70,90,20)",
+        "color_hex": "#644d31"
+      }
+    ]
+  },
+  {
+    "title": "秋分",
+    "engtitle": "Autumnal Equinox",
+    "des": "昼夜平分。",
+    "colorDatas": [
+      {
+        "color_name": "卵色",
+        "color_color": "rgb(71, 71, 71)",
+        "color_bg": "rgb(213, 227, 212)",
+        "color_rgb": "RGB(213, 227, 212)",
+        "color_cmyk": "CMYK(20,5,20,0)",
+        "color_hex": "#d5e3d4"
+      },
+      {
+        "color_name": "葭菼",
+        "color_color": "rgb(59, 59, 59)",
+        "color_bg": "rgb(202, 215, 197)",
+        "color_rgb": "RGB(202, 215, 197)",
+        "color_cmyk": "CMYK(25,10,25,0)",
+        "color_hex": "#cad7c5"
+      },
+      {
+        "color_name": "冰台",
+        "color_color": "rgb(46, 46, 46)",
+        "color_bg": "rgb(190, 202, 183)",
+        "color_rgb": "RGB(190, 202, 183)",
+        "color_cmyk": "CMYK(30,15,30,0)",
+        "color_hex": "#becab7"
+      },
+      {
+        "color_name": "青古",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(179, 189, 169)",
+        "color_rgb": "RGB(179, 189, 169)",
+        "color_cmyk": "CMYK(35,20,35,0)",
+        "color_hex": "#b3bda9"
+      },
+      {
+        "color_name": "栾华",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(192, 173, 94)",
+        "color_rgb": "RGB(192, 173, 94)",
+        "color_cmyk": "CMYK(30,30,70,0)",
+        "color_hex": "#c0ad5e"
+      },
+      {
+        "color_name": "大赤",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(170, 150, 73)",
+        "color_rgb": "RGB(170, 150, 73)",
+        "color_cmyk": "CMYK(40,40,80,0)",
+        "color_hex": "#aa9649"
+      },
+      {
+        "color_name": "佛赤",
+        "color_color": "rgb(233, 233, 233)",
+        "color_bg": "rgb(143, 61, 44)",
+        "color_rgb": "RGB(143, 61, 44)",
+        "color_cmyk": "CMYK(45,85,90,15)",
+        "color_hex": "#8f3d2c"
+      },
+      {
+        "color_name": "蜜褐",
+        "color_color": "rgb(218, 218, 218)",
+        "color_bg": "rgb(104, 54, 50)",
+        "color_rgb": "RGB(104, 54, 50)",
+        "color_cmyk": "CMYK(55,80,75,35)",
+        "color_hex": "#683632"
+      },
+      {
+        "color_name": "孔雀蓝",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(73, 148, 196)",
+        "color_rgb": "RGB(73, 148, 196)",
+        "color_cmyk": "CMYK(70,30,10,0)",
+        "color_hex": "#4994c4"
+      },
+      {
+        "color_name": "吐绶蓝",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(65, 130, 164)",
+        "color_rgb": "RGB(65, 130, 164)",
+        "color_cmyk": "CMYK(75,40,25,0)",
+        "color_hex": "#4182a4"
+      },
+      {
+        "color_name": "鱼师青",
+        "color_color": "rgb(251, 251, 251)",
+        "color_bg": "rgb(50, 120, 138)",
+        "color_rgb": "RGB(50, 120, 138)",
+        "color_cmyk": "CMYK(80,45,40,0)",
+        "color_hex": "#32788a"
+      },
+      {
+        "color_name": "软翠",
+        "color_color": "rgb(229, 229, 229)",
+        "color_bg": "rgb(0, 109, 135)",
+        "color_rgb": "RGB(0, 109, 135)",
+        "color_cmyk": "CMYK(90,50,40,0)",
+        "color_hex": "#06d87"
+      },
+      {
+        "color_name": "浅云",
+        "color_color": "rgb(87, 87, 87)",
+        "color_bg": "rgb(234, 238, 241)",
+        "color_rgb": "RGB(234, 238, 241)",
+        "color_cmyk": "CMYK(10,5,5,0)",
+        "color_hex": "#eaeef1"
+      },
+      {
+        "color_name": "素采",
+        "color_color": "rgb(68, 68, 68)",
+        "color_bg": "rgb(212, 221, 225)",
+        "color_rgb": "RGB(212, 221, 225)",
+        "color_cmyk": "CMYK(20,10,10,0)",
+        "color_hex": "#d4dde1"
+      },
+      {
+        "color_name": "影青",
+        "color_color": "rgb(49, 49, 49)",
+        "color_bg": "rgb(189, 203, 210)",
+        "color_rgb": "RGB(189, 203, 210)",
+        "color_cmyk": "CMYK(30,15,15,0)",
+        "color_hex": "#bdcbd2"
+      },
+      {
+        "color_name": "逍遥游",
+        "color_color": "rgb(37, 37, 37)",
+        "color_bg": "rgb(178, 191, 195)",
+        "color_rgb": "RGB(178, 191, 195)",
+        "color_cmyk": "CMYK(35,20,20,0)",
+        "color_hex": "#b2bfc3"
+      }
+    ]
+  },
+  {
+    "title": "寒露",
+    "engtitle": "Cold Dew",
+    "des": "露水以寒，将要结冰。",
+    "colorDatas": [
+      {
+        "color_name": "醽醁",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(166, 186, 177)",
+        "color_rgb": "RGB(166, 186, 177)",
+        "color_cmyk": "CMYK(40,20,30,0)",
+        "color_hex": "#a6bab1"
+      },
+      {
+        "color_name": "翠涛",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(129, 157, 142)",
+        "color_rgb": "RGB(129, 157, 142)",
+        "color_cmyk": "CMYK(55,30,45,0)",
+        "color_hex": "#819d8e"
+      },
+      {
+        "color_name": "青梅",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(119, 138, 119)",
+        "color_rgb": "RGB(119, 138, 119)",
+        "color_cmyk": "CMYK(60,40,55,0)",
+        "color_hex": "#778a77"
+      },
+      {
+        "color_name": "翕赩",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(95, 118, 106)",
+        "color_rgb": "RGB(95, 118, 106)",
+        "color_cmyk": "CMYK(70,50,60,0)",
+        "color_hex": "#5f766a"
+      },
+      {
+        "color_name": "九斤黄",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(221, 176, 120)",
+        "color_rgb": "RGB(221, 176, 120)",
+        "color_cmyk": "CMYK(15,35,55,0)",
+        "color_hex": "#ddb078"
+      },
+      {
+        "color_name": "杏子",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(218, 146, 51)",
+        "color_rgb": "RGB(218, 146, 51)",
+        "color_cmyk": "CMYK(15,50,85,0)",
+        "color_hex": "#da9233"
+      },
+      {
+        "color_name": "媚蝶",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(188, 110, 55)",
+        "color_rgb": "RGB(188, 110, 55)",
+        "color_cmyk": "CMYK(30,65,85,0)",
+        "color_hex": "#bc6e37"
+      },
+      {
+        "color_name": "韎韐",
+        "color_color": "rgb(249, 249, 249)",
+        "color_bg": "rgb(159, 82, 33)",
+        "color_rgb": "RGB(159, 82, 33)",
+        "color_cmyk": "CMYK(40,75,100,10)",
+        "color_hex": "#9f5221"
+      },
+      {
+        "color_name": "东方既白",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(139, 163, 199)",
+        "color_rgb": "RGB(139, 163, 199)",
+        "color_cmyk": "CMYK(50,30,10,0)",
+        "color_hex": "#8ba3c7"
+      },
+      {
+        "color_name": "绀宇",
+        "color_color": "rgb(199, 199, 199)",
+        "color_bg": "rgb(0, 61, 116)",
+        "color_rgb": "RGB(0, 61, 116)",
+        "color_cmyk": "CMYK(100,86,35,0)",
+        "color_hex": "#03d74"
+      },
+      {
+        "color_name": "佛头青",
+        "color_color": "rgb(197, 197, 197)",
+        "color_bg": "rgb(25, 50, 95)",
+        "color_rgb": "RGB(25, 50, 95)",
+        "color_cmyk": "CMYK(100,95,50,0)",
+        "color_hex": "#19325f"
+      },
+      {
+        "color_name": "花青",
+        "color_color": "rgb(189, 189, 189)",
+        "color_bg": "rgb(26, 40, 71)",
+        "color_rgb": "RGB(26, 40, 71)",
+        "color_cmyk": "CMYK(100,100,65,15)",
+        "color_hex": "#1a2847"
+      },
+      {
+        "color_name": "弗肯红",
+        "color_color": "rgb(70, 70, 70)",
+        "color_bg": "rgb(236, 217, 199)",
+        "color_rgb": "RGB(236, 217, 199)",
+        "color_cmyk": "CMYK(5,15,20,5)",
+        "color_hex": "#ecd9c7"
+      },
+      {
+        "color_name": "赤璋",
+        "color_color": "rgb(48, 48, 48)",
+        "color_bg": "rgb(225, 193, 153)",
+        "color_rgb": "RGB(225, 193, 153)",
+        "color_cmyk": "CMYK(10,25,40,5)",
+        "color_hex": "#e1c199"
+      },
+      {
+        "color_name": "茧色",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(198, 162, 104)",
+        "color_rgb": "RGB(198, 162, 104)",
+        "color_cmyk": "CMYK(20,35,60,10)",
+        "color_hex": "#c6a268"
+      },
+      {
+        "color_name": "密陀僧",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(179, 147, 75)",
+        "color_rgb": "RGB(179, 147, 75)",
+        "color_cmyk": "CMYK(30,40,75,10)",
+        "color_hex": "#b3934b"
+      }
+    ]
+  },
+  {
+    "title": "霜降",
+    "engtitle": "First Frost",
+    "des": "天气渐冷，开始有霜。",
+    "colorDatas": [
+      {
+        "color_name": "银朱",
+        "color_color": "rgb(240, 240, 240)",
+        "color_bg": "rgb(209, 41, 32)",
+        "color_rgb": "RGB(209, 41, 32)",
+        "color_cmyk": "CMYK(15,95,95,0)",
+        "color_hex": "#d12920"
+      },
+      {
+        "color_name": "胭脂虫",
+        "color_color": "rgb(222, 222, 222)",
+        "color_bg": "rgb(171, 29, 34)",
+        "color_rgb": "RGB(171, 29, 34)",
+        "color_cmyk": "CMYK(35,100,100,5)",
+        "color_hex": "#ab1d22"
+      },
+      {
+        "color_name": "朱樱",
+        "color_color": "rgb(213, 213, 213)",
+        "color_bg": "rgb(143, 29, 34)",
+        "color_rgb": "RGB(143, 29, 34)",
+        "color_cmyk": "CMYK(45,100,100,15)",
+        "color_hex": "#8f1d22"
+      },
+      {
+        "color_name": "爵头",
+        "color_color": "silver",
+        "color_bg": "rgb(99, 18, 22)",
+        "color_rgb": "RGB(99, 18, 22)",
+        "color_cmyk": "CMYK(55,100,100,40)",
+        "color_hex": "#631216"
+      },
+      {
+        "color_name": "甘石",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(189, 178, 178)",
+        "color_rgb": "RGB(189, 178, 178)",
+        "color_cmyk": "CMYK(30,30,25,0)",
+        "color_hex": "#bdb2b2"
+      },
+      {
+        "color_name": "迷楼灰",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(145, 130, 143)",
+        "color_rgb": "RGB(145, 130, 143)",
+        "color_cmyk": "CMYK(50,50,35,0)",
+        "color_hex": "#91828f"
+      },
+      {
+        "color_name": "鸦雏",
+        "color_color": "rgb(247, 247, 247)",
+        "color_bg": "rgb(106, 91, 109)",
+        "color_rgb": "RGB(106, 91, 109)",
+        "color_cmyk": "CMYK(65,65,45,10)",
+        "color_hex": "#6a5b6d"
+      },
+      {
+        "color_name": "烟墨",
+        "color_color": "rgb(233, 233, 233)",
+        "color_bg": "rgb(92, 79, 85)",
+        "color_rgb": "RGB(92, 79, 85)",
+        "color_cmyk": "CMYK(70,70,60,15)",
+        "color_hex": "#5c4f55"
+      },
+      {
+        "color_name": "十样锦",
+        "color_color": "rgb(61, 61, 61)",
+        "color_bg": "rgb(248, 198, 181)",
+        "color_rgb": "RGB(248, 198, 181)",
+        "color_cmyk": "CMYK(0,30,25,0)",
+        "color_hex": "#f8c6b5"
+      },
+      {
+        "color_name": "檀唇",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(218, 158, 140)",
+        "color_rgb": "RGB(218, 158, 140)",
+        "color_cmyk": "CMYK(15,45,40,0)",
+        "color_hex": "#da9e8c"
+      },
+      {
+        "color_name": "琼琚",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(215, 127, 102)",
+        "color_rgb": "RGB(215, 127, 102)",
+        "color_cmyk": "CMYK(15,60,55,0)",
+        "color_hex": "#d77f66"
+      },
+      {
+        "color_name": "棠梨",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(177, 90, 67)",
+        "color_rgb": "RGB(177, 90, 67)",
+        "color_cmyk": "CMYK(35,75,75,0)",
+        "color_hex": "#b15a43"
+      },
+      {
+        "color_name": "蜜合",
+        "color_color": "rgb(64, 64, 64)",
+        "color_bg": "rgb(223, 215, 194)",
+        "color_rgb": "RGB(223, 215, 194)",
+        "color_cmyk": "CMYK(15,15,25,0)",
+        "color_hex": "#dfd7c2"
+      },
+      {
+        "color_name": "假山南",
+        "color_color": "rgb(45, 45, 45)",
+        "color_bg": "rgb(212, 193, 166)",
+        "color_rgb": "RGB(212, 193, 166)",
+        "color_cmyk": "CMYK(20,25,35,0)",
+        "color_hex": "#d4c1a6"
+      },
+      {
+        "color_name": "紫花布",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(190, 167, 139)",
+        "color_rgb": "RGB(190, 167, 139)",
+        "color_cmyk": "CMYK(30,35,45,0)",
+        "color_hex": "#bea78b"
+      },
+      {
+        "color_name": "沉香",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(153, 128, 108)",
+        "color_rgb": "RGB(153, 128, 108)",
+        "color_cmyk": "CMYK(45,50,55,5)",
+        "color_hex": "#99806c"
+      }
+    ]
+  },
+  {
+    "title": "立冬",
+    "engtitle": "Beginning of Winter",
+    "des": "冬季的开始。",
+    "colorDatas": [
+      {
+        "color_name": "半见",
+        "color_color": "rgb(96, 96, 96)",
+        "color_bg": "rgb(255, 251, 199)",
+        "color_rgb": "RGB(255, 251, 199)",
+        "color_cmyk": "CMYK(0,0,30,0)",
+        "color_hex": "#fffbc7"
+      },
+      {
+        "color_name": "女贞黄",
+        "color_color": "rgb(83, 83, 83)",
+        "color_bg": "rgb(247, 238, 173)",
+        "color_rgb": "RGB(247, 238, 173)",
+        "color_cmyk": "CMYK(5,5,40,0)",
+        "color_hex": "#f7eead"
+      },
+      {
+        "color_name": "绢纨",
+        "color_color": "rgb(68, 68, 68)",
+        "color_bg": "rgb(236, 224, 147)",
+        "color_rgb": "RGB(236, 224, 147)",
+        "color_cmyk": "CMYK(10,10,50,0)",
+        "color_hex": "#ece093"
+      },
+      {
+        "color_name": "姜黄",
+        "color_color": "rgb(40, 40, 40)",
+        "color_bg": "rgb(214, 197, 96)",
+        "color_rgb": "RGB(214, 197, 96)",
+        "color_cmyk": "CMYK(20,20,70,0)",
+        "color_hex": "#d6c560"
+      },
+      {
+        "color_name": "繱犗",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(136, 191, 184)",
+        "color_rgb": "RGB(136, 191, 184)",
+        "color_cmyk": "CMYK(50,10,30,0)",
+        "color_hex": "#88bfb8"
+      },
+      {
+        "color_name": "二绿",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(93, 163, 157)",
+        "color_rgb": "RGB(93, 163, 157)",
+        "color_cmyk": "CMYK(65,20,40,0)",
+        "color_hex": "#5da39d"
+      },
+      {
+        "color_name": "铜青",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(61, 142, 134)",
+        "color_rgb": "RGB(61, 142, 134)",
+        "color_cmyk": "CMYK(75,30,50,0)",
+        "color_hex": "#3d8e86"
+      },
+      {
+        "color_name": "石绿",
+        "color_color": "rgb(232, 232, 232)",
+        "color_bg": "rgb(32, 104, 100)",
+        "color_rgb": "RGB(32, 104, 100)",
+        "color_cmyk": "CMYK(85,50,60,10)",
+        "color_hex": "#206864"
+      },
+      {
+        "color_name": "黄琮",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(158, 140, 107)",
+        "color_rgb": "RGB(158, 140, 107)",
+        "color_cmyk": "CMYK(45,45,60,0)",
+        "color_hex": "#9e8c6b"
+      },
+      {
+        "color_name": "茶色",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(136, 118, 87)",
+        "color_rgb": "RGB(136, 118, 87)",
+        "color_cmyk": "CMYK(55,55,70,0)",
+        "color_hex": "#887657"
+      },
+      {
+        "color_name": "伽罗",
+        "color_color": "rgb(243, 243, 243)",
+        "color_bg": "rgb(109, 92, 61)",
+        "color_rgb": "RGB(109, 92, 61)",
+        "color_cmyk": "CMYK(60,50,80,20)",
+        "color_hex": "#6d5c3d"
+      },
+      {
+        "color_name": "苍艾",
+        "color_color": "rgb(227, 227, 227)",
+        "color_bg": "rgb(90, 75, 59)",
+        "color_rgb": "RGB(90, 75, 59)",
+        "color_cmyk": "CMYK(65,65,75,30)",
+        "color_hex": "#5a4b3b"
+      },
+      {
+        "color_name": "藕丝褐",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(168, 135, 135)",
+        "color_rgb": "RGB(168, 135, 135)",
+        "color_cmyk": "CMYK(40,50,40,0)",
+        "color_hex": "#a88787"
+      },
+      {
+        "color_name": "葡萄褐",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(158, 105, 109)",
+        "color_rgb": "RGB(158, 105, 109)",
+        "color_cmyk": "CMYK(45,65,50,0)",
+        "color_hex": "#9e696d"
+      },
+      {
+        "color_name": "苏方",
+        "color_color": "rgb(238, 238, 238)",
+        "color_bg": "rgb(129, 71, 76)",
+        "color_rgb": "RGB(129, 71, 76)",
+        "color_cmyk": "CMYK(55,80,65,10)",
+        "color_hex": "#81474c"
+      },
+      {
+        "color_name": "福色",
+        "color_color": "rgb(211, 211, 211)",
+        "color_bg": "rgb(102, 43, 47)",
+        "color_rgb": "RGB(102, 43, 47)",
+        "color_cmyk": "CMYK(60,90,80,30)",
+        "color_hex": "#662b2f"
+      }
+    ]
+  },
+  {
+    "title": "小雪",
+    "engtitle": "Light Snow",
+    "des": "开始下雪。",
+    "colorDatas": [
+      {
+        "color_name": "龙膏烛",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(222, 130, 167)",
+        "color_rgb": "RGB(222, 130, 167)",
+        "color_cmyk": "CMYK(10,60,10,0)",
+        "color_hex": "#de82a7"
+      },
+      {
+        "color_name": "黪紫",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(204, 115, 160)",
+        "color_rgb": "RGB(204, 115, 160)",
+        "color_cmyk": "CMYK(20,65,10,0)",
+        "color_hex": "#cc73a0"
+      },
+      {
+        "color_name": "胭脂水",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(185, 90, 137)",
+        "color_rgb": "RGB(185, 90, 137)",
+        "color_cmyk": "CMYK(30,75,20,0)",
+        "color_hex": "#b95a89"
+      },
+      {
+        "color_name": "胭脂紫",
+        "color_color": "rgb(254, 254, 254)",
+        "color_bg": "rgb(176, 67, 111)",
+        "color_rgb": "RGB(176, 67, 111)",
+        "color_cmyk": "CMYK(35,85,35,0)",
+        "color_hex": "#b0436f"
+      },
+      {
+        "color_name": "小红",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(230, 119, 98)",
+        "color_rgb": "RGB(230, 119, 98)",
+        "color_cmyk": "CMYK(5,65,55,0)",
+        "color_hex": "#e67762"
+      },
+      {
+        "color_name": "岱赭",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(221, 107, 79)",
+        "color_rgb": "RGB(221, 107, 79)",
+        "color_cmyk": "CMYK(10,70,65,0)",
+        "color_hex": "#dd6b4f"
+      },
+      {
+        "color_name": "鹤顶红",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(210, 71, 53)",
+        "color_rgb": "RGB(210, 71, 53)",
+        "color_cmyk": "CMYK(15,85,80,0)",
+        "color_hex": "#d24735"
+      },
+      {
+        "color_name": "朱殷",
+        "color_color": "rgb(243, 243, 243)",
+        "color_bg": "rgb(185, 58, 38)",
+        "color_rgb": "RGB(185, 58, 38)",
+        "color_cmyk": "CMYK(30,90,95,0)",
+        "color_hex": "#b93a26"
+      },
+      {
+        "color_name": "月白",
+        "color_color": "rgb(75, 75, 75)",
+        "color_bg": "rgb(212, 229, 239)",
+        "color_rgb": "RGB(212, 229, 239)",
+        "color_cmyk": "CMYK(20,5,5,0)",
+        "color_hex": "#d4e5ef"
+      },
+      {
+        "color_name": "星郎",
+        "color_color": "rgb(56, 56, 56)",
+        "color_bg": "rgb(188, 212, 231)",
+        "color_rgb": "RGB(188, 212, 231)",
+        "color_cmyk": "CMYK(30,10,5,0)",
+        "color_hex": "#bcd4e7"
+      },
+      {
+        "color_name": "晴山",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(163, 187, 219)",
+        "color_rgb": "RGB(163, 187, 219)",
+        "color_cmyk": "CMYK(40,20,5,0)",
+        "color_hex": "#a3bbdb"
+      },
+      {
+        "color_name": "品月",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(138, 171, 204)",
+        "color_rgb": "RGB(138, 171, 204)",
+        "color_cmyk": "CMYK(50,25,10,0)",
+        "color_hex": "#8aabcc"
+      },
+      {
+        "color_name": "明茶褐",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(158, 131, 104)",
+        "color_rgb": "RGB(158, 131, 104)",
+        "color_cmyk": "CMYK(45,50,60,0)",
+        "color_hex": "#9e8368"
+      },
+      {
+        "color_name": "荆褐",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(144, 108, 74)",
+        "color_rgb": "RGB(144, 108, 74)",
+        "color_cmyk": "CMYK(50,60,75,5)",
+        "color_hex": "#906c4a"
+      },
+      {
+        "color_name": "驼褐",
+        "color_color": "rgb(247, 247, 247)",
+        "color_bg": "rgb(124, 91, 62)",
+        "color_rgb": "RGB(124, 91, 62)",
+        "color_cmyk": "CMYK(55,65,80,15)",
+        "color_hex": "#7c5b3e"
+      },
+      {
+        "color_name": "椒褐",
+        "color_color": "rgb(231, 231, 231)",
+        "color_bg": "rgb(114, 69, 58)",
+        "color_rgb": "RGB(114, 69, 58)",
+        "color_cmyk": "CMYK(55,75,75,25)",
+        "color_hex": "#72453a"
+      }
+    ]
+  },
+  {
+    "title": "大雪",
+    "engtitle": "Heavy Snow",
+    "des": "降雪量增多，地面可能积雪。",
+    "colorDatas": [
+      {
+        "color_name": "粉米",
+        "color_color": "rgb(59, 59, 59)",
+        "color_bg": "rgb(239, 196, 206)",
+        "color_rgb": "RGB(239, 196, 206)",
+        "color_cmyk": "CMYK(5,30,10,0)",
+        "color_hex": "#efc4ce"
+      },
+      {
+        "color_name": "縓缘",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(206, 136, 146)",
+        "color_rgb": "RGB(206, 136, 146)",
+        "color_cmyk": "CMYK(20,55,30,0)",
+        "color_hex": "#ce8892"
+      },
+      {
+        "color_name": "美人祭",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(195, 92, 106)",
+        "color_rgb": "RGB(195, 92, 106)",
+        "color_cmyk": "CMYK(25,75,45,0)",
+        "color_hex": "#c35c6a"
+      },
+      {
+        "color_name": "鞓红",
+        "color_color": "rgb(252, 252, 252)",
+        "color_bg": "rgb(176, 69, 82)",
+        "color_rgb": "RGB(176, 69, 82)",
+        "color_cmyk": "CMYK(35,85,60,0)",
+        "color_hex": "#b04552"
+      },
+      {
+        "color_name": "米汤娇",
+        "color_color": "rgb(83, 83, 83)",
+        "color_bg": "rgb(238, 234, 217)",
+        "color_rgb": "RGB(238, 234, 217)",
+        "color_cmyk": "CMYK(5,5,15,5)",
+        "color_hex": "#eeead9"
+      },
+      {
+        "color_name": "草白",
+        "color_color": "rgb(39, 39, 39)",
+        "color_bg": "rgb(191, 193, 169)",
+        "color_rgb": "RGB(191, 193, 169)",
+        "color_cmyk": "CMYK(30,25,35,0)",
+        "color_hex": "#bfc1a9"
+      },
+      {
+        "color_name": "玄校",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(169, 160, 130)",
+        "color_rgb": "RGB(169, 160, 130)",
+        "color_cmyk": "CMYK(40,35,50,0)",
+        "color_hex": "#a9a082"
+      },
+      {
+        "color_name": "綟绶",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(117, 108, 75)",
+        "color_rgb": "RGB(117, 108, 75)",
+        "color_cmyk": "CMYK(60,55,75,10)",
+        "color_hex": "#756c4b"
+      },
+      {
+        "color_name": "雀梅",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(120, 138, 111)",
+        "color_rgb": "RGB(120, 138, 111)",
+        "color_cmyk": "CMYK(60,40,60,0)",
+        "color_hex": "#788a6f"
+      },
+      {
+        "color_name": "油绿",
+        "color_color": "rgb(254, 254, 254)",
+        "color_bg": "rgb(93, 114, 89)",
+        "color_rgb": "RGB(93, 114, 89)",
+        "color_cmyk": "CMYK(70,50,70,5)",
+        "color_hex": "#5d7259"
+      },
+      {
+        "color_name": "莓莓",
+        "color_color": "rgb(240, 240, 240)",
+        "color_bg": "rgb(78, 101, 72)",
+        "color_rgb": "RGB(78, 101, 72)",
+        "color_cmyk": "CMYK(75,55,80,10)",
+        "color_hex": "#4e6548"
+      },
+      {
+        "color_name": "螺青",
+        "color_color": "rgb(222, 222, 222)",
+        "color_bg": "rgb(63, 80, 59)",
+        "color_rgb": "RGB(63, 80, 59)",
+        "color_cmyk": "CMYK(80,65,85,20)",
+        "color_hex": "#3f503b"
+      },
+      {
+        "color_name": "暮山紫",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(164, 171, 214)",
+        "color_rgb": "RGB(164, 171, 214)",
+        "color_cmyk": "CMYK(40,30,0,0)",
+        "color_hex": "#a4abd6"
+      },
+      {
+        "color_name": "紫苑",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(117, 124, 187)",
+        "color_rgb": "RGB(117, 124, 187)",
+        "color_cmyk": "CMYK(60,50,0,0)",
+        "color_hex": "#757cbb"
+      },
+      {
+        "color_name": "优昙瑞",
+        "color_color": "rgb(253, 253, 253)",
+        "color_bg": "rgb(97, 94, 168)",
+        "color_rgb": "RGB(97, 94, 168)",
+        "color_cmyk": "CMYK(70,65,0,0)",
+        "color_hex": "#615ea8"
+      },
+      {
+        "color_name": "延维",
+        "color_color": "rgb(234, 234, 234)",
+        "color_bg": "rgb(74, 75, 157)",
+        "color_rgb": "RGB(74, 75, 157)",
+        "color_cmyk": "CMYK(80,75,0,0)",
+        "color_hex": "#4a4b9d"
+      }
+    ]
+  },
+  {
+    "title": "冬至",
+    "engtitle": "Winter Solstice",
+    "des": "寒冷的冬天来临。'冬至'也是天文学上一年中白昼最短的一天。",
+    "colorDatas": [
+      {
+        "color_name": "银红",
+        "color_color": "rgb(61, 61, 61)",
+        "color_bg": "rgb(231, 202, 211)",
+        "color_rgb": "RGB(231, 202, 211)",
+        "color_cmyk": "CMYK(10,25,10,0)",
+        "color_hex": "#e7cad3"
+      },
+      {
+        "color_name": "莲红",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(217, 160, 179)",
+        "color_rgb": "RGB(217, 160, 179)",
+        "color_cmyk": "CMYK(15,45,15,0)",
+        "color_hex": "#d9a0b3"
+      },
+      {
+        "color_name": "紫梅",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(187, 122, 140)",
+        "color_rgb": "RGB(187, 122, 140)",
+        "color_cmyk": "CMYK(30,60,30,0)",
+        "color_hex": "#bb7a8c"
+      },
+      {
+        "color_name": "紫矿",
+        "color_color": "rgb(252, 252, 252)",
+        "color_bg": "rgb(158, 78, 86)",
+        "color_rgb": "RGB(158, 78, 86)",
+        "color_cmyk": "CMYK(45,80,60,0)",
+        "color_hex": "#9e4e56"
+      },
+      {
+        "color_name": "咸池",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(218, 169, 169)",
+        "color_rgb": "RGB(218, 169, 169)",
+        "color_cmyk": "CMYK(15,40,25,0)",
+        "color_hex": "#daa9a9"
+      },
+      {
+        "color_name": "红䵂",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(205, 115, 114)",
+        "color_rgb": "RGB(205, 115, 114)",
+        "color_cmyk": "CMYK(20,65,45,0)",
+        "color_hex": "#cd7372"
+      },
+      {
+        "color_name": "蚩尤旗",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(168, 88, 88)",
+        "color_rgb": "RGB(168, 88, 88)",
+        "color_cmyk": "CMYK(40,75,60,0)",
+        "color_hex": "#a85858"
+      },
+      {
+        "color_name": "霁红",
+        "color_color": "rgb(235, 235, 235)",
+        "color_bg": "rgb(124, 68, 73)",
+        "color_rgb": "RGB(124, 68, 73)",
+        "color_cmyk": "CMYK(55,80,65,15)",
+        "color_hex": "#7c4449"
+      },
+      {
+        "color_name": "莺儿",
+        "color_color": "rgb(71, 71, 71)",
+        "color_bg": "rgb(235, 225, 169)",
+        "color_rgb": "RGB(235, 225, 169)",
+        "color_cmyk": "CMYK(10,10,40,0)",
+        "color_hex": "#ebe1a9"
+      },
+      {
+        "color_name": "禹余粮",
+        "color_color": "rgb(54, 54, 54)",
+        "color_bg": "rgb(225, 210, 121)",
+        "color_rgb": "RGB(225, 210, 121)",
+        "color_cmyk": "CMYK(15,15,60,0)",
+        "color_hex": "#e1d279"
+      },
+      {
+        "color_name": "姚黄",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(214, 188, 70)",
+        "color_rgb": "RGB(214, 188, 70)",
+        "color_cmyk": "CMYK(20,25,80,0)",
+        "color_hex": "#d6bc46"
+      },
+      {
+        "color_name": "蛾黄",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(190, 138, 47)",
+        "color_rgb": "RGB(190, 138, 47)",
+        "color_cmyk": "CMYK(30,50,90,0)",
+        "color_hex": "#be8a2f"
+      },
+      {
+        "color_name": "濯绛",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(121, 104, 96)",
+        "color_rgb": "RGB(121, 104, 96)",
+        "color_cmyk": "CMYK(60,60,60,5)",
+        "color_hex": "#796860"
+      },
+      {
+        "color_name": "墨黪",
+        "color_color": "rgb(232, 232, 232)",
+        "color_bg": "rgb(88, 82, 72)",
+        "color_rgb": "RGB(88, 82, 72)",
+        "color_cmyk": "CMYK(70,65,70,20)",
+        "color_hex": "#585248"
+      },
+      {
+        "color_name": "驖骊",
+        "color_color": "rgb(216, 216, 216)",
+        "color_bg": "rgb(70, 67, 59)",
+        "color_rgb": "RGB(70, 67, 59)",
+        "color_cmyk": "CMYK(75,70,75,30)",
+        "color_hex": "#46433b"
+      },
+      {
+        "color_name": "京元",
+        "color_color": "rgb(199, 199, 199)",
+        "color_bg": "rgb(49, 50, 44)",
+        "color_rgb": "RGB(49, 50, 44)",
+        "color_cmyk": "CMYK(80,75,80,45)",
+        "color_hex": "#31322c"
+      }
+    ]
+  },
+  {
+    "title": "小寒",
+    "engtitle": "Lesser Cold",
+    "des": "气候开始寒冷。",
+    "colorDatas": [
+      {
+        "color_name": "酂白",
+        "color_color": "rgb(95, 95, 95)",
+        "color_bg": "rgb(246, 249, 228)",
+        "color_rgb": "RGB(246, 249, 228)",
+        "color_cmyk": "CMYK(5,0,15,0)",
+        "color_hex": "#f6f9e4"
+      },
+      {
+        "color_name": "断肠",
+        "color_color": "rgb(80, 80, 80)",
+        "color_bg": "rgb(236, 235, 194)",
+        "color_rgb": "RGB(236, 235, 194)",
+        "color_cmyk": "CMYK(10,5,30,0)",
+        "color_hex": "#ecebc2"
+      },
+      {
+        "color_name": "田赤",
+        "color_color": "rgb(56, 56, 56)",
+        "color_bg": "rgb(225, 211, 132)",
+        "color_rgb": "RGB(225, 211, 132)",
+        "color_cmyk": "CMYK(15,15,55,0)",
+        "color_hex": "#e1d384"
+      },
+      {
+        "color_name": "黄封",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(202, 178, 114)",
+        "color_rgb": "RGB(202, 178, 114)",
+        "color_cmyk": "CMYK(25,30,60,0)",
+        "color_hex": "#cab272"
+      },
+      {
+        "color_name": "丁香褐",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(189, 150, 131)",
+        "color_rgb": "RGB(189, 150, 131)",
+        "color_cmyk": "CMYK(30,45,45,0)",
+        "color_hex": "#bd9683"
+      },
+      {
+        "color_name": "棠梨褐",
+        "color_color": "rgb(254, 254, 254)",
+        "color_bg": "rgb(149, 90, 66)",
+        "color_rgb": "RGB(149, 90, 66)",
+        "color_cmyk": "CMYK(45,70,75,10)",
+        "color_hex": "#955a42"
+      },
+      {
+        "color_name": "朱石栗",
+        "color_color": "rgb(236, 236, 236)",
+        "color_bg": "rgb(129, 73, 44)",
+        "color_rgb": "RGB(129, 73, 44)",
+        "color_cmyk": "CMYK(50,75,90,20)",
+        "color_hex": "#81492c"
+      },
+      {
+        "color_name": "枣褐",
+        "color_color": "rgb(215, 215, 215)",
+        "color_bg": "rgb(104, 54, 26)",
+        "color_rgb": "RGB(104, 54, 26)",
+        "color_cmyk": "CMYK(55,80,100,35)",
+        "color_hex": "#68361a"
+      },
+      {
+        "color_name": "秋蓝",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(125, 146, 159)",
+        "color_rgb": "RGB(125, 146, 159)",
+        "color_cmyk": "CMYK(55,35,30,5)",
+        "color_hex": "#7d929f"
+      },
+      {
+        "color_name": "育阳染",
+        "color_color": "rgb(247, 247, 247)",
+        "color_bg": "rgb(87, 100, 112)",
+        "color_rgb": "RGB(87, 100, 112)",
+        "color_cmyk": "CMYK(70,55,45,15)",
+        "color_hex": "#576470"
+      },
+      {
+        "color_name": "霁蓝",
+        "color_color": "rgb(218, 218, 218)",
+        "color_bg": "rgb(60, 70, 84)",
+        "color_rgb": "RGB(60, 70, 84)",
+        "color_cmyk": "CMYK(80,70,55,25)",
+        "color_hex": "#3c4654"
+      },
+      {
+        "color_name": "獭见",
+        "color_color": "rgb(177, 177, 177)",
+        "color_bg": "rgb(21, 29, 41)",
+        "color_rgb": "RGB(21, 29, 41)",
+        "color_cmyk": "CMYK(85,75,60,65)",
+        "color_hex": "#151d29"
+      },
+      {
+        "color_name": "井天",
+        "color_color": "rgb(40, 40, 40)",
+        "color_bg": "rgb(164, 201, 204)",
+        "color_rgb": "RGB(164, 201, 204)",
+        "color_cmyk": "CMYK(40,10,20,0)",
+        "color_hex": "#a4c9cc"
+      },
+      {
+        "color_name": "正青",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(108, 168, 175)",
+        "color_rgb": "RGB(108, 168, 175)",
+        "color_cmyk": "CMYK(60,20,30,0)",
+        "color_hex": "#6ca8af"
+      },
+      {
+        "color_name": "扁青",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(80, 146, 150)",
+        "color_rgb": "RGB(80, 146, 150)",
+        "color_cmyk": "CMYK(70,30,40,0)",
+        "color_hex": "#509296"
+      },
+      {
+        "color_name": "䌦色",
+        "color_color": "rgb(234, 234, 234)",
+        "color_bg": "rgb(34, 107, 104)",
+        "color_rgb": "RGB(34, 107, 104)",
+        "color_cmyk": "CMYK(85,50,60,5)",
+        "color_hex": "#226b68"
+      }
+    ]
+  },
+  {
+    "title": "大寒",
+    "engtitle": "Greater Cold",
+    "des": "一年中最冷的时候。",
+    "colorDatas": [
+      {
+        "color_name": "紫府",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(153, 93, 127)",
+        "color_rgb": "RGB(153, 93, 127)",
+        "color_cmyk": "CMYK(45,70,30,5)",
+        "color_hex": "#995d7f"
+      },
+      {
+        "color_name": "地血",
+        "color_color": "rgb(240, 240, 240)",
+        "color_bg": "rgb(129, 70, 98)",
+        "color_rgb": "RGB(129, 70, 98)",
+        "color_cmyk": "CMYK(55,80,45,10)",
+        "color_hex": "#814662"
+      },
+      {
+        "color_name": "芥拾紫",
+        "color_color": "rgb(208, 208, 208)",
+        "color_bg": "rgb(96, 38, 65)",
+        "color_rgb": "RGB(96, 38, 65)",
+        "color_cmyk": "CMYK(60,90,55,35)",
+        "color_hex": "#602641"
+      },
+      {
+        "color_name": "油紫",
+        "color_color": "rgb(181, 181, 181)",
+        "color_bg": "rgb(66, 11, 47)",
+        "color_rgb": "RGB(66, 11, 47)",
+        "color_cmyk": "CMYK(70,100,60,50)",
+        "color_hex": "#42b2f"
+      },
+      {
+        "color_name": "骨缥",
+        "color_color": "rgb(76, 76, 76)",
+        "color_bg": "rgb(235, 227, 199)",
+        "color_rgb": "RGB(235, 227, 199)",
+        "color_cmyk": "CMYK(10,10,25,0)",
+        "color_hex": "#ebe3c7"
+      },
+      {
+        "color_name": "青白玉",
+        "color_color": "rgb(44, 44, 44)",
+        "color_bg": "rgb(202, 197, 160)",
+        "color_rgb": "RGB(202, 197, 160)",
+        "color_cmyk": "CMYK(25,20,40,0)",
+        "color_hex": "#cac5a0"
+      },
+      {
+        "color_name": "绿豆褐",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(146, 137, 107)",
+        "color_rgb": "RGB(146, 137, 107)",
+        "color_cmyk": "CMYK(50,45,60,0)",
+        "color_hex": "#92896b"
+      },
+      {
+        "color_name": "冥色",
+        "color_color": "rgb(245, 245, 245)",
+        "color_bg": "rgb(102, 95, 77)",
+        "color_rgb": "RGB(102, 95, 77)",
+        "color_cmyk": "CMYK(65,60,70,15)",
+        "color_hex": "#665f4d"
+      },
+      {
+        "color_name": "肉红",
+        "color_color": "rgb(52, 52, 52)",
+        "color_bg": "rgb(221, 197, 184)",
+        "color_rgb": "RGB(221, 197, 184)",
+        "color_cmyk": "CMYK(15,25,25,0)",
+        "color_hex": "#ddc5b8"
+      },
+      {
+        "color_name": "珠子褐",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(190, 168, 157)",
+        "color_rgb": "RGB(190, 168, 157)",
+        "color_cmyk": "CMYK(30,35,35,0)",
+        "color_hex": "#bea89d"
+      },
+      {
+        "color_name": "鹰背褐",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(143, 109, 95)",
+        "color_rgb": "RGB(143, 109, 95)",
+        "color_cmyk": "CMYK(50,60,60,5)",
+        "color_hex": "#8f6d5f"
+      },
+      {
+        "color_name": "麝香褐",
+        "color_color": "rgb(232, 232, 232)",
+        "color_bg": "rgb(105, 75, 60)",
+        "color_rgb": "RGB(105, 75, 60)",
+        "color_cmyk": "CMYK(60,70,75,25)",
+        "color_hex": "#694b3c"
+      },
+      {
+        "color_name": "石英",
+        "color_color": "rgb(37, 37, 37)",
+        "color_bg": "rgb(200, 182, 187)",
+        "color_rgb": "RGB(200, 182, 187)",
+        "color_cmyk": "CMYK(25,30,20,0)",
+        "color_hex": "#c8b6bb"
+      },
+      {
+        "color_name": "银褐",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(156, 141, 155)",
+        "color_rgb": "RGB(156, 141, 155)",
+        "color_cmyk": "CMYK(45,45,30,0)",
+        "color_hex": "#9c8d9b"
+      },
+      {
+        "color_name": "烟红",
+        "color_color": "rgb(255, 255, 255)",
+        "color_bg": "rgb(157, 133, 143)",
+        "color_rgb": "RGB(157, 133, 143)",
+        "color_cmyk": "CMYK(45,50,35,0)",
+        "color_hex": "#9d858f"
+      },
+      {
+        "color_name": "紫诰",
+        "color_color": "rgb(245, 245, 245)",
+        "color_bg": "rgb(118, 85, 93)",
+        "color_rgb": "RGB(118, 85, 93)",
+        "color_cmyk": "CMYK(60,70,55,10)",
+        "color_hex": "#76555d"
+      }
+    ]
+  }
+]

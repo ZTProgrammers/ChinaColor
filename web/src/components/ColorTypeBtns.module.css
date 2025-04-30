@@ -1,0 +1,28 @@
+.ctxtop {
+  margin: 10px;
+  padding-bottom: 16px;
+  text-align: center;
+  display: inline-block;
+}
+
+.ctx {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px 0px;
+}
+
+.layoutToggle {
+  display: inline-block;
+  padding: 8px 16px;
+  background: var(--card-background);
+  color: var(--text-color);
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-inline: 16px;
+}
+
+.layoutToggle:hover {
+  background: var(--border-color);
+}
