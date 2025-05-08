@@ -7,7 +7,7 @@ export const ThemeToggle: React.FC = () => {
   const { theme, setTheme } = useTheme();
 
   return (
-    <div className={styles.themeToggle}>
+    <div className={styles.themeToggles}>
       <Button type={theme === "light" ? "primary" : "default"} onClick={() => setTheme("light")}>
         浅色
       </Button>

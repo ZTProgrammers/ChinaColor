@@ -23,7 +23,13 @@ interface ColorTypeBtnProps {
   onValChanged: () => void;
 }
 
-const ColorTypeBtn: React.FC<ColorTypeBtnProps> = ({ curValType, curVal, curColor, val, onValChanged }: ColorTypeBtnProps) => {
+const ColorTypeBtn: React.FC<ColorTypeBtnProps> = ({
+  curValType,
+  curVal,
+  curColor,
+  val,
+  onValChanged,
+}: ColorTypeBtnProps) => {
   const isCur = curValType() == val;
 
   const ctx = isCur ? curVal() : val;
@@ -37,14 +43,22 @@ const ColorTypeBtn: React.FC<ColorTypeBtnProps> = ({ curValType, curVal, curColo
   );
 };
 
-export const ColorTypeBtns: React.FC<ColorTypeBtnsProps> = ({ lastColor, colorType, setColorType, copyToClipboard }) => {
+export const ColorTypeBtns: React.FC<ColorTypeBtnsProps> = ({
+  lastColor,
+  colorType,
+  setColorType,
+  copyToClipboard,
+}) => {
   const setHex = (val: false | "Hash" | "NoHash") => {
     setColorType({
       ...defColorTypes,
       hex: val,
     });
   };
-  const getHex = () => (colorType.hex === "Hash" ? lastColor?.color_hex ?? "#zzzzzz" : lastColor?.color_hex.replace("#", "") ?? "zzzzzz");
+  const getHex = () =>
+    colorType.hex === "Hash"
+      ? lastColor?.color_hex ?? "#zzzzzz"
+      : lastColor?.color_hex.replace("#", "") ?? "zzzzzz";
 
   const setRgb = (val: false | "RGB" | "RGBA") => {
     setColorType({
@@ -70,7 +84,11 @@ export const ColorTypeBtns: React.FC<ColorTypeBtnsProps> = ({ lastColor, colorTy
     { val: "NoHash", onValChanged: () => setHex("NoHash"), getCurVal: getHex },
     { val: "RGB", onValChanged: () => setRgb("RGB"), getCurVal: getRgb },
     { val: "RGBA", onValChanged: () => setRgb("RGBA"), getCurVal: getRgb },
-    { val: "CMYK", onValChanged: () => setCmyk(true), getCurVal: () => lastColor?.color_cmyk ?? "CMYK(c,m,y,k)" },
+    {
+      val: "CMYK",
+      onValChanged: () => setCmyk(true),
+      getCurVal: () => lastColor?.color_cmyk ?? "CMYK(c,m,y,k)",
+    },
   ];
 
   const getCurKey = () => {
@@ -96,6 +114,7 @@ export const ColorTypeBtns: React.FC<ColorTypeBtnsProps> = ({ lastColor, colorTy
       <div className={styles.ctx}>
         {colorTypeKeys.map((item) => (
           <ColorTypeBtn
+            key={item.val}
             curValType={getCurKey}
             curVal={item.getCurVal}
             curColor={lastColor}
